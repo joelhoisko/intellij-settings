@@ -1,0 +1,31 @@
+<keymap version="1" name="Joel" parent="Default for XWin">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
+  <action id="EditorToggleShowWhitespaces">
+    <keyboard-shortcut first-keystroke="altGraph w" />
+  </action>
+  <action id="EditorToggleUseSoftWraps">
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="shift alt k" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift alt j" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="SelectNextOccurrence" />
+  <action id="TableResult.UnselectPreviousOccurrence" />
+  <action id="UnselectPreviousOccurrence" />
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="altGraph v" />
+  </action>
+</keymap>

@@ -296,6 +296,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/modules/tehdenConfiguratorModule.py" timestamp="1499758229250">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/tehden/js/app/tehdenservice/notifier.js" timestamp="1498474018633">
         <mark key="[" line="22" column="41" />
         <mark key="]" line="22" column="21" />
@@ -431,8 +436,8 @@
       <jump line="286" column="47" filename="$USER_HOME$/Tehden/tehdenservice/tehdenservice/modules/tehdenPrintModule.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(KeyError, TypeError)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIyBpZiAK</text>
       </register>
       <register name="-" type="4">
         <text>KeyError</text>
@@ -444,33 +449,33 @@
         <text>(KeyError, TypeError)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgc2F2ZXMgdGhlIGluc3RydWN0aW9ucyBvbiB3aGF0IHRvIHByaW50IHRvIGEKICAgICMgZmlsZSBzcGVjaWZpZWQgd2l0aCBwcmludGVyLmZpbGUKICAgICMgVE9ETyBtYWtlIGl0IHJldHVybiBhIHN0cmluZy9hcnJheSBmb3IgdXMKICAgICMgaW5zdGVhZCBvZiBwcmludGluZyB0byBhIGZpbGUgYmVjdXMgdGhhdHMga2luZGEgZHVtYi4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBpZiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIE9uZSBtZXNzYWdlIGlzIGFsd2F5cyBhIGZ1bGwgSlNPTi1SUEMgY2FsbC4K</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRpZU5vdyA9IEZhbHNlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHdlIHJldHVybiBhIGxpc3QsIGJlY2F1c2UgCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRpZU5vdyA9IFRydWUK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICMgc2F2ZXMgdGhlIGluc3RydWN0aW9ucyBvbiB3aGF0IHRvIHByaW50IHRvIGEKICAgICMgZmlsZSBzcGVjaWZpZWQgd2l0aCBwcmludGVyLmZpbGUKICAgICMgVE9ETyBtYWtlIGl0IHJldHVybiBhIHN0cmluZy9hcnJheSBmb3IgdXMKICAgICMgaW5zdGVhZCBvZiBwcmludGluZyB0byBhIGZpbGUgYmVjdXMgdGhhdHMga2luZGEgZHVtYi4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIE9uZSBtZXNzYWdlIGlzIGFsd2F5cyBhIGZ1bGwgSlNPTi1SUEMgY2FsbC4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAjIHdlIHJldHVybiBhIGxpc3QsIGJlY2F1c2UgCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAjIHRoZSBicm9rZXIgYWx3YXlzKG5vdCB5ZXQgYWx3YXlzKSByZXR1cm5zIGEgbGlzdCBvZiBtZXNzYWdlcwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>one action can cause us to make a response
         # to Tehden (eg. read the config, here are the results)
         # and also want us to make a Notification about something.</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNlbmRNZXNzYWdlKG5vdGlmaWNhdGlvbiwgRmFsc2UpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIERFQlVHIGxldCdzIG1ha2UgYSBOb3RpZmljYXRpb24gYWJvdXQgaXQhCiAgICAgICAgbm90aWZpY2F0aW9uID0gJ2xlbCcK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQl0aGlzLnBhcnNlUm93KHJvdywgbWF4TGVuZ3RoKSkuam9pbignJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL21pZGRsZS9sZWZ0L2c=</text>

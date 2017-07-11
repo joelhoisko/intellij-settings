@@ -2,12 +2,15 @@
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
+  <action id="ContextHelp" />
+  <action id="EditorJoinLines" />
   <action id="EditorToggleShowWhitespaces">
     <keyboard-shortcut first-keystroke="altGraph w" />
   </action>
   <action id="EditorToggleUseSoftWraps">
     <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
+  <action id="GotoAction" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="shift alt k" />
   </action>
@@ -23,8 +26,14 @@
     <keyboard-shortcut first-keystroke="alt j" />
   </action>
   <action id="SelectNextOccurrence" />
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
   <action id="TableResult.UnselectPreviousOccurrence" />
-  <action id="UnselectPreviousOccurrence" />
+  <action id="UnselectPreviousOccurrence">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
+  <action id="Vcs.Push" />
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="altGraph v" />
   </action>

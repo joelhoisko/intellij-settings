@@ -61,6 +61,12 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f363edda-eb4c-4106-878b-cb71d8b9cdb4/console.sql" timestamp="1496318642332">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="59" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="3" column="59" />
+      </file>
       <file name="$USER_HOME$/Sites/tehden/application/modules/cashier/controllers/ajaxcashier.php" timestamp="1497013685836">
         <mark key="'" line="6981" column="0" />
         <mark key="[" line="6997" column="78" />
@@ -128,6 +134,13 @@
         <mark key="]" line="223" column="12" />
         <mark key="^" line="223" column="12" />
         <mark key="." line="223" column="12" />
+      </file>
+      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/modules/tehdenPrintModule.py" timestamp="1499757945852">
+        <mark key="'" line="286" column="47" />
+        <mark key="[" line="256" column="27" />
+        <mark key="]" line="256" column="48" />
+        <mark key="^" line="256" column="26" />
+        <mark key="." line="256" column="27" />
       </file>
       <file name="$USER_HOME$/Tehden/TD-4721-receipt-printing/tehdenService/testStart.py" timestamp="1495000017036">
         <mark key="[" line="3" column="34" />
@@ -289,11 +302,11 @@
         <mark key="^" line="22" column="21" />
         <mark key="." line="22" column="21" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f363edda-eb4c-4106-878b-cb71d8b9cdb4/console.sql" timestamp="1496318642332">
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="3" column="59" />
-        <mark key="." line="3" column="23" />
-        <mark key="^" line="3" column="59" />
+      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/tehdenServerProtocol.py" timestamp="1499757358231">
+        <mark key="[" line="57" column="65" />
+        <mark key="]" line="58" column="65" />
+        <mark key="^" line="58" column="65" />
+        <mark key="." line="58" column="65" />
       </file>
       <file name="$USER_HOME$/Sites/tehden/tests/js/mocks.js" timestamp="1499671701856">
         <mark key="'" line="132" column="0" />
@@ -316,18 +329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="0" filename="$USER_HOME$/Sites/tehden/tests/js/receiptparser.js" />
-      <jump line="43" column="17" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/receiptparser.js" />
-      <jump line="362" column="47" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/receiptparser.js" />
-      <jump line="351" column="0" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/receiptparser.js" />
-      <jump line="373" column="4" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/receiptparser.js" />
-      <jump line="363" column="17" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/receiptparser.js" />
-      <jump line="340" column="8" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/receiptparser.js" />
-      <jump line="107" column="2" filename="$USER_HOME$/Sites/tehden/tests/js/receiptparser.js" />
-      <jump line="99" column="67" filename="$USER_HOME$/Sites/tehden/tests/js/receiptparser.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/Sites/tehden/js/Formatter.js" />
-      <jump line="100" column="0" filename="$USER_HOME$/Sites/tehden/tests/js/receiptparser.js" />
-      <jump line="79" column="43" filename="$USER_HOME$/Sites/tehden/tests/js/receiptparser.js" />
       <jump line="75" column="61" filename="$USER_HOME$/Sites/tehden/tests/js/receiptparser.js" />
       <jump line="92" column="50" filename="$USER_HOME$/Sites/tehden/tests/js/receiptparser.js" />
       <jump line="404" column="56" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/receiptparser.js" />
@@ -416,46 +417,60 @@
       <jump line="113" column="16" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/tehdenservice.js" />
       <jump line="205" column="18" filename="$USER_HOME$/Sites/tehden/tests/js/testCustomerDisplay.js" />
       <jump line="118" column="16" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/tehdenservice.js" />
+      <jump line="99" column="38" filename="$USER_HOME$/Tehden/tehdenservice/tehdenservice/modules/tehdenPrintModule.py" />
+      <jump line="162" column="31" filename="$USER_HOME$/Tehden/tehdenservice/tehdenservice/modules/tehdenPrintModule.py" />
+      <jump line="274" column="53" filename="$USER_HOME$/Tehden/tehdenservice/tehdenservice/modules/tehdenPrintModule.py" />
+      <jump line="271" column="76" filename="$USER_HOME$/Tehden/tehdenservice/tehdenservice/modules/tehdenPrintModule.py" />
+      <jump line="275" column="31" filename="$USER_HOME$/Tehden/tehdenservice/tehdenservice/modules/tehdenPrintModule.py" />
+      <jump line="276" column="31" filename="$USER_HOME$/Tehden/tehdenservice/tehdenservice/modules/tehdenPrintModule.py" />
+      <jump line="281" column="27" filename="$USER_HOME$/Tehden/tehdenservice/tehdenservice/modules/tehdenPrintModule.py" />
+      <jump line="258" column="32" filename="$USER_HOME$/Tehden/tehdenservice/tehdenservice/modules/tehdenPrintModule.py" />
+      <jump line="152" column="24" filename="$USER_HOME$/Tehden/tehdenservice/tehdenservice/modules/tehdenPrintModule.py" />
+      <jump line="158" column="28" filename="$USER_HOME$/Tehden/tehdenservice/tehdenservice/modules/tehdenPrintModule.py" />
+      <jump line="96" column="4" filename="$USER_HOME$/Tehden/tehdenservice/tehdenservice/modules/tehdenPrintModule.py" />
+      <jump line="286" column="47" filename="$USER_HOME$/Tehden/tehdenservice/tehdenservice/modules/tehdenPrintModule.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29zbnQg</text>
+        <text>(KeyError, TypeError)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29zbnQg</text>
+        <text>KeyError</text>
       </register>
       <register name="/" type="4">
         <text>middle</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJY29uc3Qgcm93TGlzdCA9IFsKCQkJCXsKCQkJCQlsZWZ0OiAnTWVnYXN1a3NldCcsCgkJCQkJbWlkZGxlOiAneCAzJywKCQkJCQlyaWdodDogJzUnCgkJCQl9LAoJCQkJewoJCQkJCWxlZnQ6ICdTdW1tYScsCgkJCQkJbWlkZGxlOiAnWWh0ZWVuc8OkJywKCQkJCQlyaWdodDogJzE1LDAwJwoJCQkJfV07Cg==</text>
+      <register name="0" type="4">
+        <text>(KeyError, TypeError)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgc2F2ZXMgdGhlIGluc3RydWN0aW9ucyBvbiB3aGF0IHRvIHByaW50IHRvIGEKICAgICMgZmlsZSBzcGVjaWZpZWQgd2l0aCBwcmludGVyLmZpbGUKICAgICMgVE9ETyBtYWtlIGl0IHJldHVybiBhIHN0cmluZy9hcnJheSBmb3IgdXMKICAgICMgaW5zdGVhZCBvZiBwcmludGluZyB0byBhIGZpbGUgYmVjdXMgdGhhdHMga2luZGEgZHVtYi4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl0aGlzLnBhcnNlUm93KHJvdywgbWF4TGVuZ3RoKSkuam9pbignJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIE9uZSBtZXNzYWdlIGlzIGFsd2F5cyBhIGZ1bGwgSlNPTi1SUEMgY2FsbC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl0aGlzLnBhcnNlUm93KHJvdywgbWF4TGVuZ3RoKSkuam9pbignJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHdlIHJldHVybiBhIGxpc3QsIGJlY2F1c2UgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHRoZSBicm9rZXIgYWx3YXlzKG5vdCB5ZXQgYWx3YXlzKSByZXR1cm5zIGEgbGlzdCBvZiBtZXNzYWdlcwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CS8vIGNvbnNvbGUubG9nKCd0b3RhbGxlbmd0IGlzOiAnICsgZnVsbFN0cmluZy5sZW5ndGgpOwoJLy8gY29uc29sZS5sb2coJ2Z1bGwgc2hpdDonICsgZnVsbFN0cmluZyk7Cg==</text>
+      <register name="5" type="4">
+        <text>one action can cause us to make a response
+        # to Tehden (eg. read the config, here are the results)
+        # and also want us to make a Notification about something.</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl0ZWhkZW5TZXJ2aWNlLnNlbmQoSlNPTi5zdHJpbmdpZnkoW3t9LCByb3ddKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNlbmRNZXNzYWdlKG5vdGlmaWNhdGlvbiwgRmFsc2UpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">ICAgICAgICAjIERFQlVHIGxldCdzIG1ha2UgYSBOb3RpZmljYXRpb24gYWJvdXQgaXQhCiAgICAgICAgbm90aWZpY2F0aW9uID0gJ2xlbCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWNvbnN0IHJvd0xlbmd0aCA9IDIwOwo=</text>
+        <text encoding="base64">CQl0aGlzLnBhcnNlUm93KHJvdywgbWF4TGVuZ3RoKSkuam9pbignJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL21pZGRsZS9sZWZ0L2c=</text>

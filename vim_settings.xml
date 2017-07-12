@@ -235,9 +235,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/tehden/js/app/cashier/sales.js" timestamp="1499852342340">
+      <file name="$USER_HOME$/Sites/tehden/js/app/cashier/sales.js" timestamp="1499855799298">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="797" column="33" />
+        <mark key="[" line="224" column="22" />
         <mark key="]" line="797" column="22" />
         <mark key="." line="797" column="22" />
         <mark key="^" line="797" column="22" />
@@ -291,12 +291,11 @@
         <mark key="]" line="17" column="46" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/tehden/js/app/cashier/cashier.js" timestamp="1499853242870">
-        <mark key="'" line="625" column="28" />
-        <mark key="[" line="628" column="35" />
-        <mark key="]" line="628" column="69" />
-        <mark key="." line="628" column="69" />
-        <mark key="^" line="628" column="69" />
+      <file name="$USER_HOME$/Sites/tehden/js/app/cashier/cashier.js" timestamp="1499857566773">
+        <mark key="[" line="9081" column="37" />
+        <mark key="]" line="9082" column="58" />
+        <mark key="." line="9082" column="58" />
+        <mark key="^" line="9082" column="58" />
       </file>
       <file name="$USER_HOME$/Sites/tehden/application/modules/company/views/company_sequences_add.php" timestamp="1497855971762">
         <mark key="[" line="0" column="0" />
@@ -342,7 +341,7 @@
         <mark key="." line="54" column="52" />
         <mark key="^" line="54" column="52" />
       </file>
-      <file name="$USER_HOME$/Sites/tehden/tests/js/testSale.js" timestamp="1499853080319">
+      <file name="$USER_HOME$/Sites/tehden/tests/js/testSale.js" timestamp="1499855869653">
         <mark key="'" line="14" column="28" />
         <mark key="[" line="5" column="76" />
         <mark key="]" line="6" column="52" />
@@ -351,7 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="313" column="0" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/printableparser.js" />
       <jump line="294" column="12" filename="$USER_HOME$/Sites/tehden/tests/js/receiptparser.js" />
       <jump line="24" column="0" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/printableparser.js" />
       <jump line="55" column="4" filename="$USER_HOME$/Sites/tehden/tests/js/mocks.js" />
@@ -451,10 +449,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/messagecreator.js" />
       <jump line="11" column="12" filename="$USER_HOME$/Sites/tehden/tests/js/testSale.js" />
       <jump line="24" column="28" filename="$USER_HOME$/Sites/tehden/tests/js/testSale.js" />
+      <jump line="9003" column="57" filename="$USER_HOME$/Sites/tehden/js/app/cashier/cashier.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCdyZWxhdHN1bTonK3JlbGF0ZWRTdW0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">KiBAcmV0dXJucyB7QXJyYXkuPCo+fQ==</text>
@@ -463,34 +462,34 @@
         <text>TehdenService</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlhc3NlcnQuaW5jbHVkZShmaWx0ZXJlZCwgbW9ja1Jvd3NbMF0pOwo=</text>
+        <text encoding="base64">CQkJY29uc3QgdG90YWxzID0gZ2V0U2FsZXNUb3RhbCgpOwoJCQlsZXQgcm93TGlzdCA9IFt7fSwKCQkJCXsKCQkJCQlsZWZ0OiB0cmFuc2xhdG9yLmdldCgnY29tbW9uX3RvdGFsJyksCgkJCQkJcmlnaHQ6IGZvcm1hdHRlci50b051bWVyaWNTdHJpbmcoCgkJCQkJCXRvdGFscy50b3RhbCAtIHRvdGFscy5zYWxlZGlzY291bnQpCgkJCQl9CgkJCV07CgkJCXRlaGRlbi5jYXNoaWVyLnRlaGRlblNlcnZpY2Uud3JpdGVUb0Rpc3BsYXkocm93TGlzdCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCdyZWxhdHN1bTonK3JlbGF0ZWRTdW0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIEBqb2VsIGRvIHNoaXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlzYWxlLnJvd3MgPSBtb2NrUm93czsKCg==</text>
+        <text encoding="base64">CQkJCXsgbGVmdDogJ1lodGVlbnPDpCcsIHJpZ2h0OiBnZXRTYWxlc1RvdGFsKCl9CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZyhzYWxlKTsK</text>
+        <text encoding="base64">CS8vIEBqb2VsIGRvIHNoaXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CS8vIEBqb2VsICBkbyBzaGl0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCdyZWxhdHN1bTonK3JlbGF0ZWRTdW0pOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQlzYWxlLnJvd3MgPSBtb2NrUm93czsKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlzYWxlLnJvd3MgPSBbJ3hkJ107Cg==</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZyhzYWxlKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RlaGRlblNlcnZpY2UvTWVzc2FnZUNyZWF0b3IvZw==</text>

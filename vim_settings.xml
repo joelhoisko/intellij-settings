@@ -106,9 +106,9 @@
         <mark key="." line="23" column="4" />
         <mark key="^" line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/Sites/tehden/js/app/tehdenservice/messagecreator.js" timestamp="1499768789216">
+      <file name="$USER_HOME$/Sites/tehden/js/app/tehdenservice/messagecreator.js" timestamp="1499845302364">
         <mark key="'" line="86" column="0" />
-        <mark key="[" line="2" column="25" />
+        <mark key="[" line="3" column="25" />
         <mark key="]" line="3" column="24" />
         <mark key="." line="3" column="24" />
         <mark key="^" line="3" column="24" />
@@ -125,10 +125,10 @@
         <mark key="." line="10" column="6" />
         <mark key="^" line="9" column="63" />
       </file>
-      <file name="$USER_HOME$/Sites/tehden/tests/js/testTehdenService.js" timestamp="1499768906963">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="8" column="18" />
-        <mark key="." line="8" column="18" />
+      <file name="$USER_HOME$/Sites/tehden/tests/js/testTehdenService.js" timestamp="1499845680448">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
         <mark key="^" line="8" column="18" />
       </file>
       <file name="$USER_HOME$/Sites/tehden/tests/js/testCustomerDisplay.js" timestamp="1499839861841">
@@ -260,11 +260,11 @@
         <mark key="^" line="35" column="70" />
         <mark key="." line="35" column="70" />
       </file>
-      <file name="$USER_HOME$/Sites/tehden/js/app/tehdenservice/tehdenservice.js" timestamp="1499844212460">
-        <mark key="[" line="200" column="37" />
-        <mark key="]" line="201" column="17" />
-        <mark key="^" line="201" column="17" />
-        <mark key="." line="201" column="17" />
+      <file name="$USER_HOME$/Sites/tehden/js/app/tehdenservice/tehdenservice.js" timestamp="1499845654756">
+        <mark key="[" line="53" column="52" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/tehden/js/backbone/Views/Sale/SaleSaleOrderListViews.js" timestamp="1497257541987">
         <mark key="[" line="5" column="26" />
@@ -283,12 +283,12 @@
         <mark key="]" line="17" column="46" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/tehden/js/app/cashier/cashier.js" timestamp="1499843243645">
+      <file name="$USER_HOME$/Sites/tehden/js/app/cashier/cashier.js" timestamp="1499845286050">
         <mark key="'" line="5342" column="8" />
-        <mark key="[" line="676" column="49" />
-        <mark key="]" line="677" column="16" />
-        <mark key="." line="677" column="16" />
-        <mark key="^" line="677" column="16" />
+        <mark key="[" line="668" column="37" />
+        <mark key="]" line="668" column="36" />
+        <mark key="." line="668" column="36" />
+        <mark key="^" line="668" column="36" />
       </file>
       <file name="$USER_HOME$/Sites/tehden/application/modules/company/views/company_sequences_add.php" timestamp="1497855971762">
         <mark key="[" line="0" column="0" />
@@ -439,7 +439,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>getConfiguration</text>
@@ -451,31 +451,31 @@
         <text encoding="base64">CQljb25zdCBtZXNzYWdlID0gSlNPTi5wYXJzZSgKCQkJbWVzc2FnZUNyZWF0b3IucHJpbnRSZWNlaXB0TWVzc2FnZSgpKTsKCQlhc3NlcnQucHJvcGVydHlWYWwobWVzc2FnZSwgJ21vZHVsZScsICdDb25maWd1cmF0b3InKTsKCQlhc3NlcnQucHJvcGVydHlWYWwobWVzc2FnZSwgJ21ldGhvZCcsICdnZXRDb25maWd1cmF0aW9uJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8qCglkZXNjcmliZSgnY29udGFpbnMgcmVhZHktbWFkZSBoZWxwZXIgY2FsbHMnLCBmdW5jdGlvbiAoKSB7CgkJaXQoJ2xvYWRNb2R1bGVzIGhlbHBlcicsIGZ1bmN0aW9uICgpIHsKCQkJY29uc3QgbWVzc2FnZSA9IHRlaGRlblNlcnZpY2UubG9hZE1vZHVsZUxpc3QoKTsKCgkJCWFzc2VydC5pbmNsdWRlKG1lc3NhZ2UsICdSb3V0ZXInKTsKCQkJYXNzZXJ0LmluY2x1ZGUobWVzc2FnZSwgJ2xvYWRNb2R1bGVzJyk7CgkJfSk7CgkJaXQoJ3JlYWRDb25maWcgaGVscGVyJywgZnVuY3Rpb24gKCkgewoJCQl0ZWhkZW5TZXJ2aWNlLnJlYWRDb25maWcoKTsKCQkJLy8gSGF2ZSB0byB1c2Ugc2lub25zIG93biBhc3NlcnRpb24gbGlicmFyeSBoZXJlCgkJCXNpbm9uLmFzc2VydC5jYWxsZWRXaXRoTWF0Y2goc2VuZFN0dWIsICdDb25maWd1cmF0b3InKTsKCQkJc2lub24uYXNzZXJ0LmNhbGxlZFdpdGhNYXRjaChzZW5kU3R1YiwgJ2dldENvbmZpZ3VyYXRpb24nKTsKCQl9KTsKCQlpdCgnd3JpdGVDb25maWcgaGVscGVyJywgZnVuY3Rpb24gKCkgewoJCQljb25zdCB0ZXN0RGF0YSA9IHsgdGVzdFByb3BlcnR5OiAndGVzdFZhbHVlJ307CgkJCXRlaGRlblNlcnZpY2Uud3JpdGVDb25maWcodGVzdERhdGEpOwoKCQkJc2lub24uYXNzZXJ0LmNhbGxlZFdpdGhNYXRjaChzZW5kU3R1YiwgJ0NvbmZpZ3VyYXRvcicpOwoJCQlzaW5vbi5hc3NlcnQuY2FsbGVkV2l0aE1hdGNoKHNlbmRTdHViLCAnc2V0Q29uZmlndXJhdGlvbicpOwoJCQlzaW5vbi5hc3NlcnQuY2FsbGVkV2l0aE1hdGNoKHNlbmRTdHViLCAndGVzdFByb3BlcnR5Jyk7CgkJCXNpbm9uLmFzc2VydC5jYWxsZWRXaXRoTWF0Y2goc2VuZFN0dWIsICd0ZXN0VmFsdWUnKTsKCQl9KTsKCX0pOwoJKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQljb25zdCBtZXNzYWdlID0gbWVzc2FnZUNyZWF0b3IucHJpbnRSZWNlaXB0TWVzc2FnZShwcmludGFibGVMaW5lcyk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlhc3NlcnQuaW5jbHVkZShtZXNzYWdlLCAnQ29uZmlndXJhdG9yJyk7CgkJYXNzZXJ0LmluY2x1ZGUobWVzc2FnZSwgJ3ByaW50UmVjZWlwdCcpOwoJCWFzc2VydC5pbmNsdWRlKG1lc3NhZ2UsIEpTT04uc3RyaW5naWZ5KHByaW50YWJsZUxpbmVzKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlhc3NlcnQuaW5jbHVkZShtZXNzYWdlLCAnQ29uZmlndXJhdG9yJyk7CgkJYXNzZXJ0LmluY2x1ZGUobWVzc2FnZSwgJ2dldENvbmZpZ3VyYXRpb24nKTsK</text>
+        <text encoding="base64">CQljb25zdCBtZXNzYWdlID0gbWVzc2FnZUNyZWF0b3IucHJpbnRSZWNlaXB0TWVzc2FnZShwcmludGFibGVMaW5lcyk7Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlhc3NlcnQucHJvcGVydHlWYWwobWVzc2FnZSwgJ3BhcmFtcycsIHByaW50YWJsZUxpbmVzKTsK</text>
+        <text encoding="base64">CQlhc3NlcnQuaW5jbHVkZShtZXNzYWdlLCAnQ29uZmlndXJhdG9yJyk7CgkJYXNzZXJ0LmluY2x1ZGUobWVzc2FnZSwgJ3ByaW50UmVjZWlwdCcpOwoJCWFzc2VydC5pbmNsdWRlKG1lc3NhZ2UsIEpTT04uc3RyaW5naWZ5KHByaW50YWJsZUxpbmVzKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlhc3NlcnQuaW5jbHVkZShtZXNzYWdlLCBKU09OLnN0cmluZ2lmeShwcmludGFibGVMaW5lcykpOwo=</text>
+        <text encoding="base64">CQlhc3NlcnQuaW5jbHVkZShtZXNzYWdlLCAnQ29uZmlndXJhdG9yJyk7CgkJYXNzZXJ0LmluY2x1ZGUobWVzc2FnZSwgJ2dldENvbmZpZ3VyYXRpb24nKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlhc3NlcnQuaW5jbHVkZShtZXNzYWdlLCBKU09OLnN0cmluZ2lmeShwcmludGFibGVMaW5lcykpOwoJfSk7Cg==</text>
+        <text encoding="base64">CQlhc3NlcnQucHJvcGVydHlWYWwobWVzc2FnZSwgJ3BhcmFtcycsIHByaW50YWJsZUxpbmVzKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RlaGRlblNlcnZpY2UvTWVzc2FnZUNyZWF0b3IvZw==</text>

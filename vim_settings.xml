@@ -222,10 +222,10 @@
         <mark key="." line="2" column="85" />
         <mark key="^" line="2" column="85" />
       </file>
-      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/modules/tehdenCustomerDisplayModule.py" timestamp="1499849024399">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
+      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/modules/tehdenCustomerDisplayModule.py" timestamp="1499862441039">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/tehden/application/modules/company/views/tehdenservice_save.php" timestamp="1497944523322">
         <mark key="[" line="0" column="24" />
@@ -443,7 +443,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBkZWYgd3JpdGVXZWxjb21lTWVzc2FnZShzZWxmKToK</text>
       </register>
       <register name="-" type="4">
         <text>'configuration.loaded'</text>
@@ -455,7 +455,7 @@
         <text encoding="base64">CQl0aGlzLnRlaGRlblNlcnZpY2Uud3JpdGVXZWxjb21lTWVzc2FnZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBkZWYgd3JpdGVXZWxjb21lTWVzc2FnZShzZWxmKToK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -464,22 +464,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXRoaXMudGVoZGVuU2VydmljZS53cml0ZVdlbGNvbWVNZXNzYWdlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIG1ha2UgdGhlIHdlbGNvbWVtZXNzYWdlIHRoaW5neQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvLyBAam9lbCBUT0RPIEN1c3RvbWVyRGlzcGxheQo=</text>
+        <text encoding="base64">CXRoaXMudGVoZGVuU2VydmljZS53cml0ZVdlbGNvbWVNZXNzYWdlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkvLyB0ZWhkZW4udGVoZGVuU2VydmljZS5jdXN0b21lckRpc3BsYXkud3JpdGVXZWxjb21lTWVzc2FnZSgpOwo=</text>
+        <text encoding="base64">CQkvLyBUT0RPIG1ha2UgdGhlIHdlbGNvbWVtZXNzYWdlIHRoaW5neQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkvKgoJCWNvbnN0IHJvd0xpc3QgPSBbeyBsZWZ0OiAnbWUgZGlzcGxlcid9LCB7cmlnaHQ6ICdnb3VkYSBzdG9lcid9XTsKCQl0aGlzLnRlaGRlblNlcnZpY2Uud3JpdGVUb0Rpc3BsYXkocm93TGlzdCk7CgkJdGhpcy50ZWhkZW5TZXJ2aWNlLmNsZWFyRGlzcGxheSgpOwoJCSovCg==</text>
+        <text encoding="base64">CQkvLyBAam9lbCBUT0RPIEN1c3RvbWVyRGlzcGxheQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKHJvd0xpc3QpOwo=</text>
+        <text encoding="base64">CQkvLyB0ZWhkZW4udGVoZGVuU2VydmljZS5jdXN0b21lckRpc3BsYXkud3JpdGVXZWxjb21lTWVzc2FnZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RlaGRlblNlcnZpY2UvTWVzc2FnZUNyZWF0b3IvZw==</text>

@@ -61,6 +61,12 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f363edda-eb4c-4106-878b-cb71d8b9cdb4/console.sql" timestamp="1496318642332">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="59" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="3" column="59" />
+      </file>
       <file name="$USER_HOME$/Sites/tehden/application/modules/cashier/controllers/ajaxcashier.php" timestamp="1497013685836">
         <mark key="'" line="6981" column="0" />
         <mark key="[" line="6997" column="78" />
@@ -216,6 +222,11 @@
         <mark key="." line="2" column="85" />
         <mark key="^" line="2" column="85" />
       </file>
+      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/modules/tehdenCustomerDisplayModule.py" timestamp="1499849024399">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/tehden/application/modules/company/views/tehdenservice_save.php" timestamp="1497944523322">
         <mark key="[" line="0" column="24" />
         <mark key="]" line="0" column="27" />
@@ -301,12 +312,6 @@
         <mark key="]" line="22" column="21" />
         <mark key="^" line="22" column="21" />
         <mark key="." line="22" column="21" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f363edda-eb4c-4106-878b-cb71d8b9cdb4/console.sql" timestamp="1496318642332">
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="3" column="59" />
-        <mark key="." line="3" column="23" />
-        <mark key="^" line="3" column="59" />
       </file>
       <file name="$USER_HOME$/Sites/tehden/tests/js/mocks.js" timestamp="1499671701856">
         <mark key="'" line="132" column="0" />
@@ -456,25 +461,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXRoaXMudGVoZGVuU2VydmljZS53cml0ZVdlbGNvbWVNZXNzYWdlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIG1ha2UgdGhlIHdlbGNvbWVtZXNzYWdlIHRoaW5neQo=</text>
+        <text encoding="base64">CXRoaXMudGVoZGVuU2VydmljZS53cml0ZVdlbGNvbWVNZXNzYWdlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkvLyBAam9lbCBUT0RPIEN1c3RvbWVyRGlzcGxheQo=</text>
+        <text encoding="base64">CQkvLyBUT0RPIG1ha2UgdGhlIHdlbGNvbWVtZXNzYWdlIHRoaW5neQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvLyB0ZWhkZW4udGVoZGVuU2VydmljZS5jdXN0b21lckRpc3BsYXkud3JpdGVXZWxjb21lTWVzc2FnZSgpOwo=</text>
+        <text encoding="base64">CQkvLyBAam9lbCBUT0RPIEN1c3RvbWVyRGlzcGxheQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkvKgoJCWNvbnN0IHJvd0xpc3QgPSBbeyBsZWZ0OiAnbWUgZGlzcGxlcid9LCB7cmlnaHQ6ICdnb3VkYSBzdG9lcid9XTsKCQl0aGlzLnRlaGRlblNlcnZpY2Uud3JpdGVUb0Rpc3BsYXkocm93TGlzdCk7CgkJdGhpcy50ZWhkZW5TZXJ2aWNlLmNsZWFyRGlzcGxheSgpOwoJCSovCg==</text>
+        <text encoding="base64">CQkvLyB0ZWhkZW4udGVoZGVuU2VydmljZS5jdXN0b21lckRpc3BsYXkud3JpdGVXZWxjb21lTWVzc2FnZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKHJvd0xpc3QpOwo=</text>
+        <text encoding="base64">CQkvKgoJCWNvbnN0IHJvd0xpc3QgPSBbeyBsZWZ0OiAnbWUgZGlzcGxlcid9LCB7cmlnaHQ6ICdnb3VkYSBzdG9lcid9XTsKCQl0aGlzLnRlaGRlblNlcnZpY2Uud3JpdGVUb0Rpc3BsYXkocm93TGlzdCk7CgkJdGhpcy50ZWhkZW5TZXJ2aWNlLmNsZWFyRGlzcGxheSgpOwoJCSovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygnYXNkYXMnKTsK</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKHJvd0xpc3QpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RlaGRlblNlcnZpY2UvTWVzc2FnZUNyZWF0b3IvZw==</text>

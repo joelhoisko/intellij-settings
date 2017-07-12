@@ -260,11 +260,11 @@
         <mark key="^" line="35" column="70" />
         <mark key="." line="35" column="70" />
       </file>
-      <file name="$USER_HOME$/Sites/tehden/js/app/tehdenservice/tehdenservice.js" timestamp="1499837873084">
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="^" line="125" column="45" />
-        <mark key="." line="133" column="0" />
+      <file name="$USER_HOME$/Sites/tehden/js/app/tehdenservice/tehdenservice.js" timestamp="1499844212460">
+        <mark key="[" line="200" column="37" />
+        <mark key="]" line="201" column="17" />
+        <mark key="^" line="201" column="17" />
+        <mark key="." line="201" column="17" />
       </file>
       <file name="$USER_HOME$/Sites/tehden/js/backbone/Views/Sale/SaleSaleOrderListViews.js" timestamp="1497257541987">
         <mark key="[" line="5" column="26" />
@@ -283,12 +283,12 @@
         <mark key="]" line="17" column="46" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/tehden/js/app/cashier/cashier.js" timestamp="1499774077840">
+      <file name="$USER_HOME$/Sites/tehden/js/app/cashier/cashier.js" timestamp="1499843243645">
         <mark key="'" line="5342" column="8" />
-        <mark key="[" line="6340" column="33" />
-        <mark key="]" line="6340" column="71" />
-        <mark key="." line="6340" column="71" />
-        <mark key="^" line="6340" column="71" />
+        <mark key="[" line="676" column="49" />
+        <mark key="]" line="677" column="16" />
+        <mark key="." line="677" column="16" />
+        <mark key="^" line="677" column="16" />
       </file>
       <file name="$USER_HOME$/Sites/tehden/application/modules/company/views/company_sequences_add.php" timestamp="1497855971762">
         <mark key="[" line="0" column="0" />
@@ -327,15 +327,15 @@
         <mark key="^" line="329" column="51" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/tehden/tests/js/testMessageCreator.js" timestamp="1499768713933">
-        <mark key="[" line="24" column="29" />
-        <mark key="]" line="24" column="29" />
-        <mark key="." line="24" column="29" />
-        <mark key="^" line="24" column="29" />
+      <file name="$USER_HOME$/Sites/tehden/tests/js/testMessageCreator.js" timestamp="1499844108027">
+        <mark key="'" line="39" column="46" />
+        <mark key="[" line="44" column="49" />
+        <mark key="]" line="54" column="52" />
+        <mark key="." line="54" column="52" />
+        <mark key="^" line="54" column="52" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="299" column="50" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/receiptparser.js" />
       <jump line="9" column="0" filename="$USER_HOME$/Sites/tehden/tests/js/receiptparser.js" />
       <jump line="203" column="36" filename="$USER_HOME$/Sites/tehden/tests/js/receiptparser.js" />
       <jump line="231" column="8" filename="$USER_HOME$/Sites/tehden/tests/js/receiptparser.js" />
@@ -435,22 +435,23 @@
       <jump line="127" column="62" filename="$USER_HOME$/Sites/tehden/js/app/cashier/cashier.js" />
       <jump line="5342" column="8" filename="$USER_HOME$/Sites/tehden/js/app/cashier/cashier.js" />
       <jump line="45" column="0" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/customerdisplay.js" />
+      <jump line="39" column="46" filename="$USER_HOME$/Sites/tehden/tests/js/testMessageCreator.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICogV2Ugb25seSB1c2UgbWlkZGxlIGhlcmUuIE1heXViZSBjaGFuZ2UgaXQgam9lbD8K</text>
+        <text encoding="base64">CQkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'configuration.loaded'</text>
+        <text>getConfiguration</text>
       </register>
       <register name="/" type="4">
         <text>TehdenService</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJYXNzZXJ0LmluY2x1ZGUocGFyc2VkLCBtZXNzYWdlTGlzdFswXSk7Cg==</text>
+        <text encoding="base64">CQljb25zdCBtZXNzYWdlID0gSlNPTi5wYXJzZSgKCQkJbWVzc2FnZUNyZWF0b3IucHJpbnRSZWNlaXB0TWVzc2FnZSgpKTsKCQlhc3NlcnQucHJvcGVydHlWYWwobWVzc2FnZSwgJ21vZHVsZScsICdDb25maWd1cmF0b3InKTsKCQlhc3NlcnQucHJvcGVydHlWYWwobWVzc2FnZSwgJ21ldGhvZCcsICdnZXRDb25maWd1cmF0aW9uJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogV2Ugb25seSB1c2UgbWlkZGxlIGhlcmUuIE1heXViZSBjaGFuZ2UgaXQgam9lbD8K</text>
+        <text encoding="base64">CQkpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -459,22 +460,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQljb25zdCBtZXNzYWdlID0gbWVzc2FnZUNyZWF0b3IucHJpbnRSZWNlaXB0TWVzc2FnZShwcmludGFibGVMaW5lcyk7Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlhc3NlcnQuaW5jbHVkZShtZXNzYWdlLCAnQ29uZmlndXJhdG9yJyk7CgkJYXNzZXJ0LmluY2x1ZGUobWVzc2FnZSwgJ3ByaW50UmVjZWlwdCcpOwoJCWFzc2VydC5pbmNsdWRlKG1lc3NhZ2UsIEpTT04uc3RyaW5naWZ5KHByaW50YWJsZUxpbmVzKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlhc3NlcnQuaW5jbHVkZShtZXNzYWdlLCAnQ29uZmlndXJhdG9yJyk7CgkJYXNzZXJ0LmluY2x1ZGUobWVzc2FnZSwgJ2dldENvbmZpZ3VyYXRpb24nKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlhc3NlcnQucHJvcGVydHlWYWwobWVzc2FnZSwgJ3BhcmFtcycsIHByaW50YWJsZUxpbmVzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpdCgncGFyc2VzIGEgbG9uZyBtZXNzYWdlJyk7CgkJaXQoJ3BhcnNlcyBhbiBlbXB0eSBtZXNzYWdlJyk7Cg==</text>
+        <text encoding="base64">CQlhc3NlcnQuaW5jbHVkZShtZXNzYWdlLCBKU09OLnN0cmluZ2lmeShwcmludGFibGVMaW5lcykpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCS8vIHdlIGluY2x1ZGUgYWx3YXlzIHRoZQo=</text>
+        <text encoding="base64">CQlhc3NlcnQuaW5jbHVkZShtZXNzYWdlLCBKU09OLnN0cmluZ2lmeShwcmludGFibGVMaW5lcykpOwoJfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1RlaGRlblNlcnZpY2UvTWVzc2FnZUNyZWF0b3IvZw==</text>

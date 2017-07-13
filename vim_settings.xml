@@ -192,12 +192,11 @@
         <mark key="." line="75" column="50" />
         <mark key="^" line="75" column="50" />
       </file>
-      <file name="$USER_HOME$/Sites/tehden/js/backbone/Views/Sale/SalePaymentDialog.js" timestamp="1499931951017">
+      <file name="$USER_HOME$/Sites/tehden/js/backbone/Views/Sale/SalePaymentDialog.js" timestamp="1499933464629">
         <mark key="'" line="269" column="12" />
-        <mark key="[" line="797" column="0" />
-        <mark key="]" line="797" column="0" />
-        <mark key="^" line="1296" column="55" />
-        <mark key="." line="797" column="0" />
+        <mark key="[" line="793" column="0" />
+        <mark key="]" line="793" column="0" />
+        <mark key="." line="793" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/tehden/tests/js/test_test.js" timestamp="1498476434369">
         <mark key="[" line="2" column="0" />
@@ -463,7 +462,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlpZiAodGhpcy50ZWhkZW5TZXJ2aWNlLmlzUmVhZHkpIHsKCQkJY29uc3QgdG90YWxzID0gZ2V0U2FsZXNUb3RhbCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>common_remaining</text>
@@ -478,29 +477,29 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQljb25zdCByb3dMaXN0ID0gW3sKCQkJCQkJbGVmdDogdHJhbnNsYXRvci5nZXQoJ2NvbW1vbl9yZW1haW5pbmcnKSwKCQkJCQkJcmlnaHQ6IGZvcm1hdHRlci50b051bWVyaWNTdHJpbmcoCgkJCQkJCQl0aGlzLmFjdGl2ZVNhbGUuZ2V0KCd0b3BheScpKQoJCQkJCX0sIHt9XTsKCQkJCQl0ZWhkZW5TZXJ2aWNlLndyaXRlVG9EaXNwbGF5KHJvd0xpc3QpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl0aGlzLnRlaGRlblNlcnZpY2Uud3JpdGVXZWxjb21lTWVzc2FnZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q2FzaGllci5wcm90b3R5cGUuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyh0aGlzLmFjdGl2ZVNhbGUuZ2V0KCd0b3BheScpKTsK</text>
+        <text encoding="base64">CQl0aGlzLnRlaGRlblNlcnZpY2Uud3JpdGVXZWxjb21lTWVzc2FnZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCS8vIGpvZWwgZGVidWcKCQkJCWNvbm9sZS5sb2coJ2hhbmRsZVBheW1lbnQnKTsK</text>
+        <text encoding="base64">Q2FzaGllci5wcm90b3R5cGUuCg==</text>
       </register>
-      <register name="7" type="8">
-        <text>@
-s</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyh0aGlzLmFjdGl2ZVNhbGUuZ2V0KCd0b3BheScpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCS8vIEBqb2VsIGRlYnVnCgkJCQljb25zb2xlLmxvZyh0aGlzKTsK</text>
+        <text encoding="base64">CQkJCS8vIGpvZWwgZGVidWcKCQkJCWNvbm9sZS5sb2coJ2hhbmRsZVBheW1lbnQnKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkvLyBAam9lbAo=</text>
+      <register name="9" type="8">
+        <text>@
+s</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyh0aGlzLnRlaGRlblNlcnZpY2UpLyh0aGlzLnRlaGRlblNlcnZpY2UuaXNSZWFkeSkvZ2M=</text>

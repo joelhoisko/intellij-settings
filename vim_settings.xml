@@ -61,6 +61,12 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f363edda-eb4c-4106-878b-cb71d8b9cdb4/console.sql" timestamp="1496318642332">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="59" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="3" column="59" />
+      </file>
       <file name="$USER_HOME$/Sites/tehden/application/modules/cashier/controllers/ajaxcashier.php" timestamp="1497013685836">
         <mark key="'" line="6981" column="0" />
         <mark key="[" line="6997" column="78" />
@@ -136,8 +142,8 @@
         <mark key="'" line="243" column="12" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="24" />
-        <mark key="." line="288" column="47" />
         <mark key="^" line="288" column="47" />
+        <mark key="." line="288" column="47" />
       </file>
       <file name="$USER_HOME$/Tehden/TD-4721-receipt-printing/tehdenService/testStart.py" timestamp="1495000017036">
         <mark key="[" line="3" column="34" />
@@ -196,8 +202,8 @@
         <mark key="'" line="980" column="16" />
         <mark key="[" line="494" column="53" />
         <mark key="]" line="495" column="20" />
-        <mark key="." line="495" column="20" />
         <mark key="^" line="495" column="20" />
+        <mark key="." line="495" column="20" />
       </file>
       <file name="$USER_HOME$/Sites/tehden/tests/js/test_test.js" timestamp="1498476434369">
         <mark key="[" line="2" column="0" />
@@ -217,6 +223,11 @@
         <mark key="." line="2" column="85" />
         <mark key="^" line="2" column="85" />
       </file>
+      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/modules/tehdenCustomerDisplayModule.py" timestamp="1499862441039">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/tehden/application/modules/company/views/tehdenservice_save.php" timestamp="1497944523322">
         <mark key="[" line="0" column="24" />
         <mark key="]" line="0" column="27" />
@@ -229,6 +240,9 @@
         <mark key="]" line="23" column="1" />
         <mark key="." line="21" column="8" />
         <mark key="^" line="21" column="8" />
+      </file>
+      <file name="/dummy.sql" timestamp="1499945621998">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1499857900170">
         <mark key="[" line="0" column="0" />
@@ -271,8 +285,8 @@
       <file name="$USER_HOME$/Sites/tehden/js/app/tehdenservice/tehdenservice.js" timestamp="1499860565427">
         <mark key="[" line="82" column="64" />
         <mark key="]" line="83" column="14" />
-        <mark key="^" line="83" column="14" />
         <mark key="." line="83" column="14" />
+        <mark key="^" line="83" column="14" />
       </file>
       <file name="$USER_HOME$/Sites/tehden/js/backbone/Views/Sale/SaleSaleOrderListViews.js" timestamp="1497257541987">
         <mark key="[" line="5" column="26" />
@@ -309,12 +323,6 @@
         <mark key="]" line="22" column="21" />
         <mark key="^" line="22" column="21" />
         <mark key="." line="22" column="21" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f363edda-eb4c-4106-878b-cb71d8b9cdb4/console.sql" timestamp="1496318642332">
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="3" column="59" />
-        <mark key="." line="3" column="23" />
-        <mark key="^" line="3" column="59" />
       </file>
       <file name="$USER_HOME$/Sites/tehden/tests/js/mocks.js" timestamp="1499671701856">
         <mark key="'" line="132" column="0" />

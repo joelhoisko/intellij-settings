@@ -192,12 +192,12 @@
         <mark key="." line="75" column="50" />
         <mark key="^" line="75" column="50" />
       </file>
-      <file name="$USER_HOME$/Sites/tehden/js/backbone/Views/Sale/SalePaymentDialog.js" timestamp="1499926977872">
+      <file name="$USER_HOME$/Sites/tehden/js/backbone/Views/Sale/SalePaymentDialog.js" timestamp="1499931951017">
         <mark key="'" line="269" column="12" />
-        <mark key="[" line="273" column="14" />
-        <mark key="]" line="273" column="12" />
-        <mark key="." line="273" column="12" />
-        <mark key="^" line="273" column="12" />
+        <mark key="[" line="797" column="0" />
+        <mark key="]" line="797" column="0" />
+        <mark key="^" line="1296" column="55" />
+        <mark key="." line="797" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/tehden/tests/js/test_test.js" timestamp="1498476434369">
         <mark key="[" line="2" column="0" />
@@ -262,17 +262,25 @@
         <mark key="." line="13" column="29" />
         <mark key="^" line="13" column="29" />
       </file>
+      <file name="$USER_HOME$/Sites/tehden/js/translator.js" timestamp="1499930147242">
+        <mark key="'" line="14" column="3" />
+        <mark key="[" line="14" column="3" />
+        <mark key="]" line="14" column="70" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Tehden/TD-4721-receipt-printing/tehdenService/modules/tehdenPrintModule.py" timestamp="1494937180811">
         <mark key="[" line="35" column="71" />
         <mark key="]" line="35" column="70" />
         <mark key="^" line="35" column="70" />
         <mark key="." line="35" column="70" />
       </file>
-      <file name="$USER_HOME$/Sites/tehden/js/app/tehdenservice/tehdenservice.js" timestamp="1499925672221">
-        <mark key="[" line="72" column="12" />
-        <mark key="]" line="72" column="13" />
-        <mark key="^" line="72" column="13" />
-        <mark key="." line="72" column="13" />
+      <file name="$USER_HOME$/Sites/tehden/js/app/tehdenservice/tehdenservice.js" timestamp="1499933373954">
+        <mark key="'" line="128" column="47" />
+        <mark key="[" line="291" column="32" />
+        <mark key="]" line="292" column="28" />
+        <mark key="^" line="292" column="28" />
+        <mark key="." line="292" column="28" />
       </file>
       <file name="$USER_HOME$/Sites/tehden/js/backbone/Views/Sale/SaleSaleOrderListViews.js" timestamp="1497257541987">
         <mark key="[" line="5" column="26" />
@@ -286,17 +294,18 @@
         <mark key="]" line="5" column="26" />
         <mark key="." line="298" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/tehden/application/libraries/CashierController.php" timestamp="1499765307915">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="46" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Sites/tehden/application/libraries/CashierController.php" timestamp="1499930864677">
+        <mark key="[" line="425" column="41" />
+        <mark key="]" line="426" column="29" />
+        <mark key="." line="426" column="29" />
+        <mark key="^" line="426" column="29" />
       </file>
-      <file name="$USER_HOME$/Sites/tehden/js/app/cashier/cashier.js" timestamp="1499859637363">
-        <mark key="'" line="995" column="4" />
-        <mark key="[" line="9968" column="4" />
-        <mark key="]" line="5663" column="0" />
-        <mark key="." line="5663" column="0" />
-        <mark key="^" line="5663" column="40" />
+      <file name="$USER_HOME$/Sites/tehden/js/app/cashier/cashier.js" timestamp="1499933342020">
+        <mark key="'" line="9121" column="12" />
+        <mark key="[" line="6855" column="16" />
+        <mark key="]" line="6855" column="25" />
+        <mark key="^" line="6855" column="25" />
+        <mark key="." line="6855" column="25" />
       </file>
       <file name="$USER_HOME$/Sites/tehden/application/modules/company/views/company_sequences_add.php" timestamp="1497855971762">
         <mark key="[" line="0" column="0" />
@@ -351,16 +360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="17" filename="$USER_HOME$/Sites/tehden/tests/js/receiptparser.js" />
-      <jump line="23" column="55" filename="$USER_HOME$/Sites/tehden/tests/js/mocks.js" />
-      <jump line="570" column="47" filename="$USER_HOME$/Sites/tehden/tests/js/receiptparser.js" />
-      <jump line="1" column="2" filename="$USER_HOME$/Sites/tehden/tests/js/mocks.js" />
-      <jump line="36" column="849" filename="$USER_HOME$/Sites/tehden/tests/js/mocks.js" />
-      <jump line="630" column="30" filename="$USER_HOME$/Sites/tehden/tests/js/receiptparser.js" />
-      <jump line="661" column="28" filename="$USER_HOME$/Sites/tehden/tests/js/receiptparser.js" />
-      <jump line="691" column="20" filename="$USER_HOME$/Sites/tehden/tests/js/receiptparser.js" />
-      <jump line="107" column="6" filename="$USER_HOME$/Sites/tehden/tests/js/mocks.js" />
-      <jump line="308" column="18" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/printableparser.js" />
       <jump line="705" column="16" filename="$USER_HOME$/Sites/tehden/tests/js/receiptparser.js" />
       <jump line="370" column="4" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/printableparser.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/printableparser.js" />
@@ -426,7 +425,6 @@
       <jump line="85" column="0" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/messagecreator.js" />
       <jump line="7" column="1" filename="$USER_HOME$/Sites/tehden/tests/js/testTehdenService.js" />
       <jump line="116" column="55" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/tehdenservice.js" />
-      <jump line="123" column="0" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/tehdenservice.js" />
       <jump line="129" column="29" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/tehdenservice.js" />
       <jump line="128" column="24" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/tehdenservice.js" />
       <jump line="127" column="62" filename="$USER_HOME$/Sites/tehden/js/app/cashier/cashier.js" />
@@ -451,66 +449,74 @@
       <jump line="1256" column="32" filename="$USER_HOME$/Sites/tehden/js/backbone/Views/Sale/SalePaymentDialog.js" />
       <jump line="273" column="0" filename="$USER_HOME$/Sites/tehden/js/backbone/Views/Sale/SalePaymentDialog.js" />
       <jump line="269" column="12" filename="$USER_HOME$/Sites/tehden/js/backbone/Views/Sale/SalePaymentDialog.js" />
+      <jump line="14" column="3" filename="$USER_HOME$/Sites/tehden/js/translator.js" />
+      <jump line="6171" column="75" filename="$USER_HOME$/Sites/tehden/js/app/cashier/cashier.js" />
+      <jump line="631" column="57" filename="$USER_HOME$/Sites/tehden/js/app/cashier/cashier.js" />
+      <jump line="9671" column="9" filename="$USER_HOME$/Sites/tehden/js/app/cashier/cashier.js" />
+      <jump line="225" column="40" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/tehdenservice.js" />
+      <jump line="123" column="47" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/tehdenservice.js" />
+      <jump line="623" column="19" filename="$USER_HOME$/Sites/tehden/js/app/cashier/cashier.js" />
+      <jump line="9685" column="8" filename="$USER_HOME$/Sites/tehden/js/app/cashier/cashier.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/tehden/js/app/cashier/cashier.js" />
+      <jump line="13439" column="0" filename="$USER_HOME$/Sites/tehden/js/app/cashier/cashier.js" />
+      <jump line="9121" column="12" filename="$USER_HOME$/Sites/tehden/js/app/cashier/cashier.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCS8vIEAgam9lbCBpcyB0aGlzIGZpbmUgaGVyZT8KCQkJCS8vIGNsZWFycyB0aGUgZGlzcGxheSBhbmQgcmV0dXJucyB0byB0aGUgJ2RlZmF1bHQnIG1lc3NhZ2UKCQkJCWNvbnNvbGUubG9nKCdtYXJrc2FsZWFzRmluaXNoZWQnKTsKCQkJCXRlaGRlblNlcnZpY2Uud3JpdGVXZWxjb21lTWVzc2FnZSgpOwo=</text>
+        <text encoding="base64">CQlpZiAodGhpcy50ZWhkZW5TZXJ2aWNlLmlzUmVhZHkpIHsKCQkJY29uc3QgdG90YWxzID0gZ2V0U2FsZXNUb3RhbCgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGV0IA==</text>
+        <text>common_remaining</text>
       </register>
       <register name="/" type="4">
-        <text>TehdenService</text>
+        <text>(this.tehdenService)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCWNvbnN0IHJvd0xpc3QgPSBbewoJCQkJCWxlZnQ6IHRyYW5zbGF0b3IuZ2V0KCdjb21tb25fdG90YWwnKSwKCQkJCQlyaWdodDogZm9ybWF0dGVyLnRvTnVtZXJpY1N0cmluZygKCQkJCQkJdGhpcy5hY3RpdmVTYWxlLmdldCgndG90YWxzJykudG9QYXkpCgkJCQl9LCB7fV07Cg==</text>
+        <text encoding="base64">CQlpZiAodGhpcy50ZWhkZW5TZXJ2aWNlLmlzUmVhZHkpIHsKCQkJY29uc3QgdG90YWxzID0gZ2V0U2FsZXNUb3RhbCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCS8vIEAgam9lbCBpcyB0aGlzIGZpbmUgaGVyZT8KCQkJCS8vIGNsZWFycyB0aGUgZGlzcGxheSBhbmQgcmV0dXJucyB0byB0aGUgJ2RlZmF1bHQnIG1lc3NhZ2UKCQkJCWNvbnNvbGUubG9nKCdtYXJrc2FsZWFzRmluaXNoZWQnKTsKCQkJCXRlaGRlblNlcnZpY2Uud3JpdGVXZWxjb21lTWVzc2FnZSgpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCS8vIE5PVEU6IHRoYW5rcyB0byBncnVudC1jb250cmliLXVnbGlmeSwgY2FuJ3QgdXNlIEVTNiBmZWF0dXJlcwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCQkvLyBAam9lbCBkZWJ1Zwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnbGlzdGVuVG86c3luYycpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCdtYXNrU2FsZUFzRmluaXNoZWQnKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCS8vIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCS8vIFdlIGNhbid0IGtub3cgZnJvbSB0aGUgd2Vic29ja2V0IHRoYXQgd2UgYXJlIHByaW50aW5nIGZvcgoJCQkJLy8gc3VyZSAoaXQncyB1c2VkIGZvciBzb21lIG90aGVyIHN0dWZmLCBhc2sgZWVtaWwpIHNvIGluc3RlYWQKCQkJCS8vIHdlIGNoZWNrIGlmIFRlaGRlblNlcnZpY2UgaGFzIGxvYWRlZCB0aGUgcHJpbnRpbmcgbW9kdWxlLgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCWNvbnNvbGUubG9nKCdyZWZyZXNoaW5nIHRvdGFscyEnKTsK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQl0aGlzLnRlaGRlblNlcnZpY2Uud3JpdGVXZWxjb21lTWVzc2FnZSgpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Q2FzaGllci5wcm90b3R5cGUuCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyh0aGlzLmFjdGl2ZVNhbGUuZ2V0KCd0b3BheScpKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCS8vIGpvZWwgZGVidWcKCQkJCWNvbm9sZS5sb2coJ2hhbmRsZVBheW1lbnQnKTsK</text>
+      </register>
+      <register name="7" type="8">
+        <text>@
+s</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCS8vIEBqb2VsIGRlYnVnCgkJCQljb25zb2xlLmxvZyh0aGlzKTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQkvLyBAam9lbAo=</text>
+      </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL1RlaGRlblNlcnZpY2UvTWVzc2FnZUNyZWF0b3IvZw==</text>
+        <text encoding="base64">JzwsJz5zLyh0aGlzLnRlaGRlblNlcnZpY2UpLyh0aGlzLnRlaGRlblNlcnZpY2UuaXNSZWFkeSkvZ2M=</text>
       </register>
     </registers>
     <search>
-      <last-search>TehdenService</last-search>
+      <last-search>(this.tehdenService)</last-search>
       <last-offset />
-      <last-pattern>TehdenService</last-pattern>
-      <last-replace>MessageCreator</last-replace>
-      <last-substitute>TehdenService</last-substitute>
-      <last-dir>1</last-dir>
+      <last-pattern>(this.tehdenService)</last-pattern>
+      <last-replace>(this.tehdenService.isReady)</last-replace>
+      <last-substitute>(this.tehdenService)</last-substitute>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>stickit</entry>
-        <entry>tauto</entry>
-        <entry>check(</entry>
-        <entry>receipt.offerMap</entry>
         <entry encoding="base64">ID0=</entry>
         <entry>\/\/</entry>
         <entry>offer</entry>
@@ -527,12 +533,12 @@
         <entry>&quot;</entry>
         <entry>middle</entry>
         <entry>TehdenService</entry>
+        <entry encoding="base64">XDxodHRwc1w+</entry>
+        <entry encoding="base64">XDxnZXRcPg==</entry>
+        <entry>if\s(this.tehdenService)\s{</entry>
+        <entry>(this.tehdenService)</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/tauto/auto/g</entry>
-        <entry>w</entry>
-        <entry encoding="base64">JzwsJz5zL2NoZWNrKC90aGlzLmNoZWNrKC9n</entry>
-        <entry encoding="base64">JzwsJz5zL3JlY2VpcHQub2ZmZXJNYXAvb2ZmZXJNYXAvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyA9LzovZw==</entry>
         <entry encoding="base64">JzwsJz5zL1wvXC8vL2c=</entry>
         <entry encoding="base64">JzwsJz5zL29mZmVyL3NhbGVPZmZlci9n</entry>
@@ -549,6 +555,10 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry encoding="base64">JzwsJz5zL21pZGRsZS9sZWZ0L2c=</entry>
         <entry encoding="base64">JzwsJz5zL1RlaGRlblNlcnZpY2UvTWVzc2FnZUNyZWF0b3IvZw==</entry>
+        <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zL2lmXHModGhpcy50ZWhkZW5TZXJ2aWNlKVxzey9pZlxzKHRoaXMudGVoZGVuU2VydmljZS5pc1JlYWR5KVxzey9nYw==</entry>
+        <entry encoding="base64">JzwsJz5zLyh0aGlzLnRlaGRlblNlcnZpY2UpLyh0aGlzLnRlaGRlblNlcnZpY2UuaXNSZWFkeS9nYw==</entry>
+        <entry encoding="base64">JzwsJz5zLyh0aGlzLnRlaGRlblNlcnZpY2UpLyh0aGlzLnRlaGRlblNlcnZpY2UuaXNSZWFkeSkvZ2M=</entry>
       </history-cmd>
       <history-expr />
       <history-input />

@@ -230,7 +230,7 @@
         <mark key="." line="21" column="8" />
         <mark key="^" line="21" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499937255064">
+      <file name="/Dummy.txt" timestamp="1499939525654">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -300,11 +300,11 @@
         <mark key="." line="426" column="29" />
         <mark key="^" line="426" column="29" />
       </file>
-      <file name="$USER_HOME$/Sites/tehden/js/app/cashier/cashier.js" timestamp="1499937571324">
+      <file name="$USER_HOME$/Sites/tehden/js/app/cashier/cashier.js" timestamp="1499940685141">
         <mark key="'" line="9083" column="8" />
-        <mark key="[" line="4585" column="0" />
-        <mark key="]" line="4585" column="8" />
-        <mark key="." line="4585" column="8" />
+        <mark key="[" line="3609" column="0" />
+        <mark key="]" line="3609" column="0" />
+        <mark key="." line="3609" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/tehden/application/modules/company/views/company_sequences_add.php" timestamp="1497855971762">
         <mark key="[" line="0" column="0" />
@@ -462,7 +462,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkvLyBAam9lbCBkZWJ1Zwo=</text>
+        <text encoding="base64">CQkJCQkvKgo=</text>
       </register>
       <register name="-" type="4">
         <text>isReady</text>
@@ -474,31 +474,31 @@
         <text>this.payment.get('superpaymenttype_id')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkvLyBAam9lbCBkZWJ1Zwo=</text>
+        <text encoding="base64">CQkJCQkvKgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkvLyBAam9lbCBkZWJ1Zywgb3JpZ2luYWwgQ0xJQ0tERUxBWQo=</text>
+        <text encoding="base64">CQkJCQkqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnY2xpY2sgLnBheW1lbnRCdXR0b24nKTsK</text>
+        <text encoding="base64">CQkJCQkvLyBAam9lbCBkZWJ1Zwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnc3luYyBjb21wbGV0ZScpOwo=</text>
+        <text encoding="base64">CQkJCQkvLyBAam9lbCBkZWJ1Zywgb3JpZ2luYWwgQ0xJQ0tERUxBWQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCS8vIEBqb2VsIGRlYnVnCgkJCQljb25zb2xlLmxvZygnaGFuZGxlUGF5bWVudCcpOwo=</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnY2xpY2sgLnBheW1lbnRCdXR0b24nKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8vIEBqb2VsIGRlYnVnLCBvcmlnaW5hbCAyMDAwCg==</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZygnc3luYyBjb21wbGV0ZScpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCWRlZmF1bHQ6CgkJCQkJCQkJY29uc29sZS5sb2coJ2RlZmF1bHQgY2FzZSB3aXRoOicgKyB0aGlzLnRoaXMucGF5bWVudC5nZXQoJ3N1cGVycGF5bWVudHR5cGVfaWQnKSk7CgkJCQkJCQkJYnJlYWs7Cg==</text>
+        <text encoding="base64">CQkJCS8vIEBqb2VsIGRlYnVnCgkJCQljb25zb2xlLmxvZygnaGFuZGxlUGF5bWVudCcpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCQljb25zb2xlLmxvZygnZmluaXNoZWQgd2l0aCBnZW5lcmljJyk7Cg==</text>
+        <text encoding="base64">CS8vIEBqb2VsIGRlYnVnLCBvcmlnaW5hbCAyMDAwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCWNvbnNvbGUubG9nKCdlcm9yIGhlcmUnKTsK</text>
+        <text encoding="base64">CQkJCQkJCWRlZmF1bHQ6CgkJCQkJCQkJY29uc29sZS5sb2coJ2RlZmF1bHQgY2FzZSB3aXRoOicgKyB0aGlzLnRoaXMucGF5bWVudC5nZXQoJ3N1cGVycGF5bWVudHR5cGVfaWQnKSk7CgkJCQkJCQkJYnJlYWs7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyh0aGlzLnRlaGRlblNlcnZpY2UpLyh0aGlzLnRlaGRlblNlcnZpY2UuaXNSZWFkeSkvZ2M=</text>

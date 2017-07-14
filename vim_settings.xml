@@ -15,6 +15,9 @@
         <mark key="." line="6" column="38" />
         <mark key="^" line="6" column="38" />
       </file>
+      <file name="/a.dummy" timestamp="1500015389801">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/tehden/package.json" timestamp="1498476533595">
         <mark key="[" line="13" column="19" />
         <mark key="]" line="13" column="18" />
@@ -113,6 +116,18 @@
         <mark key="]" line="552" column="46" />
         <mark key="." line="552" column="46" />
         <mark key="^" line="552" column="46" />
+      </file>
+      <file name="$USER_HOME$/Tehden/tehdenservice/Makefile" timestamp="1500015822254">
+        <mark key="[" line="46" column="35" />
+        <mark key="]" line="46" column="33" />
+        <mark key="^" line="46" column="33" />
+        <mark key="." line="46" column="33" />
+      </file>
+      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenStart.spec" timestamp="1500015778750">
+        <mark key="[" line="13" column="43" />
+        <mark key="]" line="13" column="23" />
+        <mark key="." line="13" column="23" />
+        <mark key="^" line="13" column="23" />
       </file>
       <file name="$USER_HOME$/Tehden/TD-4721-receipt-printing/tehdenService/lib/sharedObjects.py" timestamp="1495006107324">
         <mark key="[" line="22" column="23" />
@@ -250,7 +265,7 @@
         <mark key="." line="21" column="8" />
         <mark key="^" line="21" column="8" />
       </file>
-      <file name="/dummy.sql" timestamp="1500007328254">
+      <file name="/dummy.sql" timestamp="1500015744465">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1499946583387">
@@ -291,6 +306,12 @@
         <mark key="]" line="14" column="70" />
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Tehden/tehdenservice/pyinstaller_hooks/tehdenservice.modules.tehdenConfiguratorModule.py" timestamp="1500015191509">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="50" />
+        <mark key="^" line="1" column="50" />
+        <mark key="." line="1" column="50" />
       </file>
       <file name="$USER_HOME$/Tehden/TD-4721-receipt-printing/tehdenService/modules/tehdenPrintModule.py" timestamp="1494937180811">
         <mark key="[" line="35" column="71" />
@@ -474,11 +495,11 @@
       <jump line="3609" column="0" filename="$USER_HOME$/Sites/tehden/js/app/cashier/cashier.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkvLyBAam9lbCBhZ2FpbiBhbmQgYWdhaW4sIGZpbmUgcGxhY2UgZm9yIHRoaXM/Cg==</text>
+      <register name="&quot;" type="4">
+        <text>--</text>
       </register>
       <register name="-" type="4">
-        <text>tehdenservice_printer</text>
+        <text>--</text>
       </register>
       <register name="/" type="4">
         <text>width</text>
@@ -487,34 +508,34 @@
         <text encoding="base64">CQkJCQljb25zdCB0b3RhbHMgPSBnZXRTYWxlc1RvdGFsKCk7CgkJCQkJbGV0IHJvd0xpc3QgPSBbCgkJCQkJCXt9LAoJCQkJCQl7CgkJCQkJCQlsZWZ0OiB0cmFuc2xhdG9yLmdldCgnY29tbW9uX3RvdGFsJyksCgkJCQkJCQlyaWdodDogZm9ybWF0dGVyLnRvTnVtZXJpY1N0cmluZygKCQkJCQkJCQl0b3RhbHMudG90YWwgLSB0b3RhbHMuc2FsZWRpc2NvdW50KQoJCQkJCQl9CgkJCQkJXTsKCQkJCQl0ZWhkZW4uY2FzaGllci50ZWhkZW5TZXJ2aWNlLndyaXRlVG9EaXNwbGF5KHJvd0xpc3QpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkvLyBAam9lbCBhZ2FpbiBhbmQgYWdhaW4sIGZpbmUgcGxhY2UgZm9yIHRoaXM/Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICd0ZWhkZW5zZXJ2aWNlLm1vZHVsZXMudGVoZGVuQ29uZmlndXJhdG9yTW9kdWxlJywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZyhnZXRTYWxlc1RvdGFsKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIGhvb2tzcGF0aD1bJ3B5aW5zdGFsbGVyX2hvb2tzJ10sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkvL3ByaW50VG90YWxUb0N1c3RvbWVyRGlzcGxheSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICd0ZWhkZW5zZXJ2aWNlLm1vZHVsZXMudGVoZGVuQ29uZmlndXJhdG9yTW9kdWxlJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygnYXQgZW5kJyk7Cg==</text>
+        <text encoding="base64">CQkJCQkvLyBAam9lbCBhZ2FpbiBhbmQgYWdhaW4sIGZpbmUgcGxhY2UgZm9yIHRoaXM/Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygnc3RhcnQnKTsK</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZyhnZXRTYWxlc1RvdGFsKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvKioKCQkgKiBTaW1wbGUgdmlldyBmb3IgCgkJICovCg==</text>
+        <text encoding="base64">CQkvL3ByaW50VG90YWxUb0N1c3RvbWVyRGlzcGxheSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ago=</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygnYXQgZW5kJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQknI2hvc3QnOiAnaG9zdCcsCg==</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygnc3RhcnQnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PD9waHAKLyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IGpvZWwKICogRGF0ZTogMTMuNy4yMDE3CiAqIFRpbWU6IDE0OjE3CiAqLwo=</text>
+        <text encoding="base64">CQkvKioKCQkgKiBTaW1wbGUgdmlldyBmb3IgCgkJICovCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3dpZHRoL2JhdWRyYXRlL2c=</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -560,7 +581,6 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry encoding="base64">JzwsJz5zL21pZGRsZS9sZWZ0L2c=</entry>
         <entry encoding="base64">JzwsJz5zL1RlaGRlblNlcnZpY2UvTWVzc2FnZUNyZWF0b3IvZw==</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL2lmXHModGhpcy50ZWhkZW5TZXJ2aWNlKVxzey9pZlxzKHRoaXMudGVoZGVuU2VydmljZS5pc1JlYWR5KVxzey9nYw==</entry>
         <entry encoding="base64">JzwsJz5zLyh0aGlzLnRlaGRlblNlcnZpY2UpLyh0aGlzLnRlaGRlblNlcnZpY2UuaXNSZWFkeS9nYw==</entry>
         <entry encoding="base64">JzwsJz5zLyh0aGlzLnRlaGRlblNlcnZpY2UpLyh0aGlzLnRlaGRlblNlcnZpY2UuaXNSZWFkeSkvZ2M=</entry>
@@ -570,6 +590,7 @@
         <entry encoding="base64">JzwsJz5zL3RoL2h0L2c=</entry>
         <entry encoding="base64">JzwsJz5zL3dpZHRoL2NvZGVwYWdlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3dpZHRoL2JhdWRyYXRlL2c=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

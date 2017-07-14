@@ -315,6 +315,12 @@
         <mark key="." line="426" column="29" />
         <mark key="^" line="426" column="29" />
       </file>
+      <file name="$USER_HOME$/Sites/tehden/application/modules/tehdenserviceupdater/controllers/tehdenserviceupdater.php" timestamp="1500032704657">
+        <mark key="[" line="10" column="51" />
+        <mark key="]" line="10" column="78" />
+        <mark key="^" line="10" column="78" />
+        <mark key="." line="10" column="78" />
+      </file>
       <file name="$USER_HOME$/Sites/tehden/js/app/cashier/cashier.js" timestamp="1500011195284">
         <mark key="[" line="10018" column="0" />
         <mark key="]" line="10018" column="0" />
@@ -476,7 +482,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IGpvZWwKICogRGF0ZTogMTQuNy4yMDE3CiAqIFRpbWU6IDExOjAzCiAqLwo=</text>
+        <text encoding="base64">CQkJLy8ndXJsJyA9PiAnL2hvbWUvam9lbC9Eb2N1bWVudHMvaGVsbG8ucHknCg==</text>
       </register>
       <register name="-" type="4">
         <text>tehdenservice_printer</text>
@@ -485,7 +491,7 @@
         <text>width</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQljb25zdCB0b3RhbHMgPSBnZXRTYWxlc1RvdGFsKCk7CgkJCQkJbGV0IHJvd0xpc3QgPSBbCgkJCQkJCXt9LAoJCQkJCQl7CgkJCQkJCQlsZWZ0OiB0cmFuc2xhdG9yLmdldCgnY29tbW9uX3RvdGFsJyksCgkJCQkJCQlyaWdodDogZm9ybWF0dGVyLnRvTnVtZXJpY1N0cmluZygKCQkJCQkJCQl0b3RhbHMudG90YWwgLSB0b3RhbHMuc2FsZWRpc2NvdW50KQoJCQkJCQl9CgkJCQkJXTsKCQkJCQl0ZWhkZW4uY2FzaGllci50ZWhkZW5TZXJ2aWNlLndyaXRlVG9EaXNwbGF5KHJvd0xpc3QpOwo=</text>
+        <text encoding="base64">CQkJLy8ndXJsJyA9PiAnL2hvbWUvam9lbC9Eb2N1bWVudHMvaGVsbG8ucHknCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IGpvZWwKICogRGF0ZTogMTQuNy4yMDE3CiAqIFRpbWU6IDExOjAzCiAqLwo=</text>

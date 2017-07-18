@@ -117,11 +117,11 @@
         <mark key="." line="552" column="46" />
         <mark key="^" line="552" column="46" />
       </file>
-      <file name="$USER_HOME$/Tehden/tehdenservice/Makefile" timestamp="1500015822254">
-        <mark key="[" line="46" column="35" />
-        <mark key="]" line="46" column="33" />
-        <mark key="^" line="46" column="33" />
-        <mark key="." line="46" column="33" />
+      <file name="$USER_HOME$/Tehden/tehdenservice/Makefile" timestamp="1500375035929">
+        <mark key="[" line="14" column="60" />
+        <mark key="]" line="14" column="58" />
+        <mark key="^" line="14" column="58" />
+        <mark key="." line="14" column="58" />
       </file>
       <file name="$USER_HOME$/Tehden/tehdenservice/tehdenStart.spec" timestamp="1500015778750">
         <mark key="[" line="13" column="43" />
@@ -358,6 +358,9 @@
         <mark key="^" line="22" column="21" />
         <mark key="." line="22" column="21" />
       </file>
+      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/tehdenStart.py" timestamp="1500375218841">
+        <mark key="'" line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/tehden/tests/js/mocks.js" timestamp="1499671701856">
         <mark key="'" line="132" column="0" />
         <mark key="[" line="108" column="1042" />
@@ -393,7 +396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/tehden/tests/js/testCustomerDisplay.js" />
       <jump line="299" column="1" filename="$USER_HOME$/Sites/tehden/tests/js/testReceiptParser.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/tehden/tests/js/testReceiptParser.js" />
       <jump line="0" column="1" filename="$USER_HOME$/Sites/tehden/tests/js/receipt_printable.js" />
@@ -493,13 +495,14 @@
       <jump line="23" column="75" filename="$USER_HOME$/Sites/tehden/js/backbone/Modules/TehdenServiceManager.js" />
       <jump line="77" column="22" filename="$USER_HOME$/Sites/tehden/js/backbone/Modules/TehdenServiceManager.js" />
       <jump line="3609" column="0" filename="$USER_HOME$/Sites/tehden/js/app/cashier/cashier.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/Tehden/tehdenservice/tehdenservice/tehdenStart.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>--</text>
+        <text>test-autobahn</text>
       </register>
       <register name="-" type="4">
-        <text>--</text>
+        <text>test-autobahn</text>
       </register>
       <register name="/" type="4">
         <text>width</text>
@@ -508,31 +511,31 @@
         <text encoding="base64">CQkJCQljb25zdCB0b3RhbHMgPSBnZXRTYWxlc1RvdGFsKCk7CgkJCQkJbGV0IHJvd0xpc3QgPSBbCgkJCQkJCXt9LAoJCQkJCQl7CgkJCQkJCQlsZWZ0OiB0cmFuc2xhdG9yLmdldCgnY29tbW9uX3RvdGFsJyksCgkJCQkJCQlyaWdodDogZm9ybWF0dGVyLnRvTnVtZXJpY1N0cmluZygKCQkJCQkJCQl0b3RhbHMudG90YWwgLSB0b3RhbHMuc2FsZWRpc2NvdW50KQoJCQkJCQl9CgkJCQkJXTsKCQkJCQl0ZWhkZW4uY2FzaGllci50ZWhkZW5TZXJ2aWNlLndyaXRlVG9EaXNwbGF5KHJvd0xpc3QpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICd0ZWhkZW5zZXJ2aWNlLm1vZHVsZXMudGVoZGVuQ29uZmlndXJhdG9yTW9kdWxlJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGhvb2tzcGF0aD1bJ3B5aW5zdGFsbGVyX2hvb2tzJ10sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICd0ZWhkZW5zZXJ2aWNlLm1vZHVsZXMudGVoZGVuQ29uZmlndXJhdG9yTW9kdWxlJywK</text>
+        <text encoding="base64">IyBkbyBpdCBhbGwKYWxsOiB0ZXN0IHJ1biB0ZXN0LWF1dG9iYWhuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkvLyBAam9lbCBhZ2FpbiBhbmQgYWdhaW4sIGZpbmUgcGxhY2UgZm9yIHRoaXM/Cg==</text>
+        <text encoding="base64">IyBwbGF5aW5nIGFyb3VuZCB3aXRoIEN1c3RvbWVyRGlzYXBseQpydW4tY3U6CgkkKFZJUlRVQUxfRU5WKS9weXRob24gQ3VzdG9tZXJEaXNwbGF5VGVzdC5weQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZyhnZXRTYWxlc1RvdGFsKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICd0ZWhkZW5zZXJ2aWNlLm1vZHVsZXMudGVoZGVuQ29uZmlndXJhdG9yTW9kdWxlJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvL3ByaW50VG90YWxUb0N1c3RvbWVyRGlzcGxheSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIGhvb2tzcGF0aD1bJ3B5aW5zdGFsbGVyX2hvb2tzJ10sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygnYXQgZW5kJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICd0ZWhkZW5zZXJ2aWNlLm1vZHVsZXMudGVoZGVuQ29uZmlndXJhdG9yTW9kdWxlJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygnc3RhcnQnKTsK</text>
+        <text encoding="base64">CQkJCQkvLyBAam9lbCBhZ2FpbiBhbmQgYWdhaW4sIGZpbmUgcGxhY2UgZm9yIHRoaXM/Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvKioKCQkgKiBTaW1wbGUgdmlldyBmb3IgCgkJICovCg==</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZyhnZXRTYWxlc1RvdGFsKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

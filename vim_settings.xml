@@ -15,7 +15,7 @@
         <mark key="." line="6" column="38" />
         <mark key="^" line="6" column="38" />
       </file>
-      <file name="/a.dummy" timestamp="1500015389801">
+      <file name="/a.dummy" timestamp="1500379574072">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/tehden/package.json" timestamp="1498476533595">
@@ -72,6 +72,12 @@
         <mark key="^" line="40" column="51" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Tehden/tehdenservice/setup.py" timestamp="1500380390192">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="32" />
+        <mark key="^" line="4" column="32" />
+        <mark key="." line="4" column="32" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/f363edda-eb4c-4106-878b-cb71d8b9cdb4/console.sql" timestamp="1496318642332">
         <mark key="[" line="3" column="23" />
         <mark key="]" line="3" column="59" />
@@ -123,11 +129,11 @@
         <mark key="^" line="14" column="58" />
         <mark key="." line="14" column="58" />
       </file>
-      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenStart.spec" timestamp="1500015778750">
-        <mark key="[" line="13" column="43" />
-        <mark key="]" line="13" column="23" />
-        <mark key="." line="13" column="23" />
-        <mark key="^" line="13" column="23" />
+      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenStart.spec" timestamp="1500378552904">
+        <mark key="[" line="35" column="21" />
+        <mark key="]" line="35" column="25" />
+        <mark key="." line="35" column="25" />
+        <mark key="^" line="35" column="25" />
       </file>
       <file name="$USER_HOME$/Tehden/TD-4721-receipt-printing/tehdenService/lib/sharedObjects.py" timestamp="1495006107324">
         <mark key="[" line="22" column="23" />
@@ -153,6 +159,12 @@
         <mark key="]" line="10" column="6" />
         <mark key="." line="10" column="6" />
         <mark key="^" line="9" column="63" />
+      </file>
+      <file name="$USER_HOME$/Tehden/tehdenservice/client_config.py" timestamp="1500381473902">
+        <mark key="[" line="4" column="56" />
+        <mark key="]" line="4" column="63" />
+        <mark key="^" line="4" column="63" />
+        <mark key="." line="4" column="63" />
       </file>
       <file name="$USER_HOME$/Sites/tehden/js/backbone/Models/Company/TehdenServiceCustomerDisplay.js" timestamp="1499948418333">
         <mark key="[" line="16" column="27" />
@@ -215,6 +227,12 @@
         <mark key="." line="22" column="68" />
         <mark key="^" line="22" column="68" />
       </file>
+      <file name="$USER_HOME$/Tehden/tehdenservice/nix64.spec" timestamp="1500382501158">
+        <mark key="[" line="30" column="23" />
+        <mark key="]" line="31" column="24" />
+        <mark key="." line="31" column="24" />
+        <mark key="^" line="31" column="24" />
+      </file>
       <file name="$USER_HOME$/Sites/tehden/js/backbone/Models/Company/TehdenServiceModule.js" timestamp="1498126652776">
         <mark key="[" line="8" column="14" />
         <mark key="]" line="8" column="49" />
@@ -238,6 +256,14 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/tehdenUpdater.py" timestamp="1500382516462">
+        <mark key="a" line="12" column="11" />
+        <mark key="'" line="8" column="14" />
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="23" />
+        <mark key="." line="15" column="23" />
+        <mark key="^" line="15" column="23" />
       </file>
       <file name="$USER_HOME$/Sites/tehden/application/modules/company/controllers/company.php" timestamp="1499944531328">
         <mark key="'" line="0" column="0" />
@@ -268,10 +294,22 @@
       <file name="/dummy.sql" timestamp="1500015744465">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/SharedObjects.py" timestamp="1500377799281">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="23" column="29" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1499946583387">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Tehden/tehdenservice/http_uploader.py" timestamp="1500379567407">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/tehden/js/app/cashier/sales.js" timestamp="1499855799298">
         <mark key="'" line="0" column="0" />
@@ -352,14 +390,30 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/tehdenBroker.py" timestamp="1500378645871">
+        <mark key="[" line="200" column="46" />
+        <mark key="]" line="200" column="55" />
+        <mark key="^" line="200" column="55" />
+        <mark key="." line="200" column="55" />
+      </file>
       <file name="$USER_HOME$/Sites/tehden/js/app/tehdenservice/notifier.js" timestamp="1498474018633">
         <mark key="[" line="22" column="41" />
         <mark key="]" line="22" column="21" />
         <mark key="^" line="22" column="21" />
         <mark key="." line="22" column="21" />
       </file>
-      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/tehdenStart.py" timestamp="1500375218841">
-        <mark key="'" line="13" column="0" />
+      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/tehdenServerProtocol.py" timestamp="1500381565993">
+        <mark key="[" line="69" column="76" />
+        <mark key="]" line="69" column="75" />
+        <mark key="^" line="69" column="75" />
+        <mark key="." line="69" column="75" />
+      </file>
+      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/tehdenStart.py" timestamp="1500380694857">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="8" column="51" />
+        <mark key="]" line="9" column="71" />
+        <mark key="^" line="9" column="71" />
+        <mark key="." line="9" column="71" />
       </file>
       <file name="$USER_HOME$/Sites/tehden/tests/js/mocks.js" timestamp="1499671701856">
         <mark key="'" line="132" column="0" />
@@ -380,6 +434,11 @@
         <mark key="^" line="329" column="51" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Tehden/tehdenservice/copy_uploader.py" timestamp="1500382208508">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="22" column="78" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/tehden/tests/js/testMessageCreator.js" timestamp="1499844108027">
         <mark key="'" line="39" column="46" />
         <mark key="[" line="44" column="49" />
@@ -396,7 +455,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="299" column="1" filename="$USER_HOME$/Sites/tehden/tests/js/testReceiptParser.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/tehden/tests/js/testReceiptParser.js" />
       <jump line="0" column="1" filename="$USER_HOME$/Sites/tehden/tests/js/receipt_printable.js" />
       <jump line="135" column="53" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/printableparser.js" />
@@ -496,46 +554,47 @@
       <jump line="77" column="22" filename="$USER_HOME$/Sites/tehden/js/backbone/Modules/TehdenServiceManager.js" />
       <jump line="3609" column="0" filename="$USER_HOME$/Sites/tehden/js/app/cashier/cashier.js" />
       <jump line="13" column="0" filename="$USER_HOME$/Tehden/tehdenservice/tehdenservice/tehdenStart.py" />
+      <jump line="8" column="14" filename="$USER_HOME$/Tehden/tehdenservice/tehdenservice/tehdenUpdater.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>test-autobahn</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIGhpZGRlbmltcG9ydHM9W10sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>test-autobahn</text>
+        <text>TehdenService</text>
       </register>
       <register name="/" type="4">
         <text>width</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQljb25zdCB0b3RhbHMgPSBnZXRTYWxlc1RvdGFsKCk7CgkJCQkJbGV0IHJvd0xpc3QgPSBbCgkJCQkJCXt9LAoJCQkJCQl7CgkJCQkJCQlsZWZ0OiB0cmFuc2xhdG9yLmdldCgnY29tbW9uX3RvdGFsJyksCgkJCQkJCQlyaWdodDogZm9ybWF0dGVyLnRvTnVtZXJpY1N0cmluZygKCQkJCQkJCQl0b3RhbHMudG90YWwgLSB0b3RhbHMuc2FsZWRpc2NvdW50KQoJCQkJCQl9CgkJCQkJXTsKCQkJCQl0ZWhkZW4uY2FzaGllci50ZWhkZW5TZXJ2aWNlLndyaXRlVG9EaXNwbGF5KHJvd0xpc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICBoaWRkZW5pbXBvcnRzPVsKICAgICAgICAgICAgICAgICAgICAgICAgICAndGVoZGVuc2VydmljZS5tb2R1bGVzLnRlaGRlbkNvbmZpZ3VyYXRvck1vZHVsZScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgJ3RlaGRlbnNlcnZpY2UubW9kdWxlcy50ZWhkZW5QcmludE1vZHVsZScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgJ3RlaGRlbnNlcnZpY2UubW9kdWxlcy50ZWhkZW5DdXN0b21lckRpc3BsYXlNb2R1bGUnXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIGhpZGRlbmltcG9ydHM9W10sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIGhpZGRlbmltcG9ydHM9W10sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBkbyBpdCBhbGwKYWxsOiB0ZXN0IHJ1biB0ZXN0LWF1dG9iYWhuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIGhpZGRlbmltcG9ydHM9W10sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBwbGF5aW5nIGFyb3VuZCB3aXRoIEN1c3RvbWVyRGlzYXBseQpydW4tY3U6CgkkKFZJUlRVQUxfRU5WKS9weXRob24gQ3VzdG9tZXJEaXNwbGF5VGVzdC5weQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIGhpZGRlbmltcG9ydHM9W10sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICd0ZWhkZW5zZXJ2aWNlLm1vZHVsZXMudGVoZGVuQ29uZmlndXJhdG9yTW9kdWxlJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIGhpZGRlbmltcG9ydHM9W10sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGhvb2tzcGF0aD1bJ3B5aW5zdGFsbGVyX2hvb2tzJ10sCg==</text>
+        <text encoding="base64">Y29sbCA9IENPTExFQ1QoZXhlLAogICAgICAgICAgICAgICBhLmJpbmFyaWVzLAogICAgICAgICAgICAgICBhLnppcGZpbGVzLAogICAgICAgICAgICAgICBhLmRhdGFzLAogICAgICAgICAgICAgICBzdHJpcD1GYWxzZSwKICAgICAgICAgICAgICAgdXB4PVRydWUsCiAgICAgICAgICAgICAgIG5hbWU9J25peDY0JykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICd0ZWhkZW5zZXJ2aWNlLm1vZHVsZXMudGVoZGVuQ29uZmlndXJhdG9yTW9kdWxlJywK</text>
+        <text encoding="base64">IitwIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkvLyBAam9lbCBhZ2FpbiBhbmQgYWdhaW4sIGZpbmUgcGxhY2UgZm9yIHRoaXM/Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZyhnZXRTYWxlc1RvdGFsKCkpOwo=</text>
+        <text encoding="base64">ICAgIGRlZiBfY2hlY2tfYXR0cmlidXRlcyhzZWxmKToKICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -4,7 +4,7 @@
     <property name="created">2017-05-05T07:51:24</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.3.0.0</property>
-    <property name="modified">2017-07-13T08:23:27</property>
+    <property name="modified">2017-07-18T14:26:23</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.15" />
@@ -114,6 +114,11 @@
     <option name="PHP_VAR">
       <value>
         <option name="FOREGROUND" value="88a2aa" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="dc4d27" />
       </value>
     </option>
     <option name="SQL_EXTERNAL_TOOL">

@@ -363,6 +363,12 @@
         <mark key="^" line="329" column="51" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/tehden/joelservice/lol" timestamp="1500369087025">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+      </file>
       <file name="$USER_HOME$/Sites/tehden/tests/js/testMessageCreator.js" timestamp="1499844108027">
         <mark key="'" line="39" column="46" />
         <mark key="[" line="44" column="49" />
@@ -521,7 +527,7 @@
         <text encoding="base64">CQkJCQkvLyBAam9lbCBhZ2FpbiBhbmQgYWdhaW4sIGZpbmUgcGxhY2UgZm9yIHRoaXM/Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3dpZHRoL2JhdWRyYXRlL2c=</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -567,7 +573,6 @@
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry encoding="base64">JzwsJz5zL21pZGRsZS9sZWZ0L2c=</entry>
         <entry encoding="base64">JzwsJz5zL1RlaGRlblNlcnZpY2UvTWVzc2FnZUNyZWF0b3IvZw==</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zL2lmXHModGhpcy50ZWhkZW5TZXJ2aWNlKVxzey9pZlxzKHRoaXMudGVoZGVuU2VydmljZS5pc1JlYWR5KVxzey9nYw==</entry>
         <entry encoding="base64">JzwsJz5zLyh0aGlzLnRlaGRlblNlcnZpY2UpLyh0aGlzLnRlaGRlblNlcnZpY2UuaXNSZWFkeS9nYw==</entry>
         <entry encoding="base64">JzwsJz5zLyh0aGlzLnRlaGRlblNlcnZpY2UpLyh0aGlzLnRlaGRlblNlcnZpY2UuaXNSZWFkeSkvZ2M=</entry>
@@ -577,6 +582,7 @@
         <entry encoding="base64">JzwsJz5zL3RoL2h0L2c=</entry>
         <entry encoding="base64">JzwsJz5zL3dpZHRoL2NvZGVwYWdlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3dpZHRoL2JhdWRyYXRlL2c=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

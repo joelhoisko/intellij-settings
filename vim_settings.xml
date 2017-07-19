@@ -90,6 +90,11 @@
         <mark key="." line="23" column="4" />
         <mark key="^" line="23" column="4" />
       </file>
+      <file name="$USER_HOME$/Tehden/tehdenservice/requirements.txt" timestamp="1500468433028">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/tehden/application/modules/company/views/commoninvoicesettings_edit.php" timestamp="1497855964189">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
@@ -150,6 +155,12 @@
         <mark key="]" line="15" column="24" />
         <mark key="." line="15" column="24" />
         <mark key="^" line="15" column="24" />
+      </file>
+      <file name="$USER_HOME$/Tehden/tehdenservice/tasks.py" timestamp="1500468307969">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="11" />
+        <mark key="^" line="9" column="11" />
+        <mark key="." line="9" column="11" />
       </file>
       <file name="$USER_HOME$/Sites/tehden/application/modules/company/views/tehdenservice_controls.php" timestamp="1497958440299">
         <mark key="[" line="0" column="0" />
@@ -375,7 +386,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UHlVcGRhdGVyLUNvcHlVcGxvYWRlci1QbHVnaW49PTAuMC4wCg==</text>
       </register>
       <register name="-" type="4">
         <text>'Running in PyInstaller bundle.')</text>
@@ -387,31 +398,31 @@
         <text encoding="base64">ICAgIHNoYXJlZC5sb2dnZXIuZGVidWcoJ1J1bm5pbmcgaW4gUHlJbnN0YWxsZXIgYnVuZGxlLicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UHlVcGRhdGVyLUNvcHlVcGxvYWRlci1QbHVnaW49PTAuMC4wCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IiIiCk9uZSBmdW5jdGlvbiB0byBzdGFydCBpdCBhbGwuCiIiIgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIHRlaGRlbl9zdGFydCgpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiMgaGVyZSB3ZSBnbwp0ZWhkZW5fc3RhcnQoKQo=</text>
+        <text encoding="base64">IiIiCk9uZSBmdW5jdGlvbiB0byBzdGFydCBpdCBhbGwuCiIiIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyEgL3Vzci9lbnYvcHl0aG9uCg==</text>
+        <text encoding="base64">ZGVmIHRlaGRlbl9zdGFydCgpOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">CiMgaGVyZSB3ZSBnbwp0ZWhkZW5fc3RhcnQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNoYXJlZC5sb2dnZXIuZGVidWcoJ0tleTp7fSwgY2VydDp7fScuZm9ybWF0KGtleV9wYXRoLCBjZXJ0X3BhdGgpCg==</text>
+        <text encoding="base64">IyEgL3Vzci9lbnYvcHl0aG9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNoYXJlZC5sb2dnZXIuZGVidWcoJ1J1bm5pbmcgaW4gUHlJbnN0YWxsZXIgYnVuZGxlLicpCg==</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICN5b3Ugc2hvdWxkIHVzZSBleHREYXRhRGlyIGFzIHRoZSBwYXRoIHRvIHlvdXIgZmlsZSBTdG9yZV9Db2Rlcy5jc3YgZmlsZQo=</text>
+        <text encoding="base64">ICAgIHNoYXJlZC5sb2dnZXIuZGVidWcoJ0tleTp7fSwgY2VydDp7fScuZm9ybWF0KGtleV9wYXRoLCBjZXJ0X3BhdGgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

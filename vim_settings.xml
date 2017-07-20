@@ -30,12 +30,12 @@
         <mark key="^" line="13" column="18" />
         <mark key="." line="13" column="18" />
       </file>
-      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/tehdenPrinters.py" timestamp="1500539960457">
+      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/tehdenPrinters.py" timestamp="1500547522243">
         <mark key="'" line="160" column="10" />
-        <mark key="[" line="167" column="49" />
-        <mark key="]" line="167" column="57" />
-        <mark key="." line="167" column="57" />
-        <mark key="^" line="167" column="57" />
+        <mark key="[" line="400" column="0" />
+        <mark key="]" line="400" column="0" />
+        <mark key="." line="400" column="0" />
+        <mark key="^" line="399" column="19" />
       </file>
       <file name="$USER_HOME$/Tehden/TD-4721-receipt-printing/tehdenService/DOCUMENTATION.md" timestamp="1495009025695">
         <mark key="[" line="11" column="64" />
@@ -177,6 +177,12 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
+      <file name="$USER_HOME$/Tehden/tehdenservice/Dockerfile" timestamp="1500552091826">
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="21" column="67" />
+        <mark key="^" line="16" column="6" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/tehden/application/modules/company/views/tehdenservice_controls.php" timestamp="1497958440299">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="5" />
@@ -209,12 +215,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/tests/test_printer.py" timestamp="1500539972359">
-        <mark key="'" line="67" column="20" />
-        <mark key="[" line="68" column="36" />
-        <mark key="]" line="68" column="44" />
-        <mark key="^" line="68" column="44" />
-        <mark key="." line="68" column="44" />
+      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/tests/test_printer.py" timestamp="1500549538275">
+        <mark key="'" line="105" column="54" />
+        <mark key="[" line="105" column="4" />
+        <mark key="]" line="105" column="4" />
+        <mark key="^" line="105" column="4" />
+        <mark key="." line="105" column="4" />
       </file>
       <file name="$USER_HOME$/Sites/tehden/js/backbone/Models/Company/TehdenServiceModules.js" timestamp="1498037303440">
         <mark key="[" line="13" column="24" />
@@ -227,6 +233,12 @@
         <mark key="]" line="1" column="50" />
         <mark key="^" line="1" column="50" />
         <mark key="." line="1" column="50" />
+      </file>
+      <file name="$USER_HOME$/Tehden/tehdenservice/.gitlab-ci.yml" timestamp="1500552597248">
+        <mark key="[" line="50" column="26" />
+        <mark key="]" line="51" column="22" />
+        <mark key="^" line="51" column="22" />
+        <mark key="." line="51" column="22" />
       </file>
       <file name="$USER_HOME$/Tehden/TD-4721-receipt-printing/tehdenService/modules/tehdenPrintModule.py" timestamp="1494937180811">
         <mark key="[" line="35" column="71" />
@@ -272,6 +284,13 @@
         <mark key="^" line="22" column="21" />
         <mark key="." line="22" column="21" />
       </file>
+      <file name="$USER_HOME$/Tehden/tehdenservice/pavement.py" timestamp="1500552232665">
+        <mark key="'" line="46" column="7" />
+        <mark key="[" line="36" column="38" />
+        <mark key="]" line="36" column="38" />
+        <mark key="." line="36" column="38" />
+        <mark key="^" line="36" column="38" />
+      </file>
       <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/tehdenServerProtocol.py" timestamp="1500447291452">
         <mark key="[" line="69" column="72" />
         <mark key="]" line="69" column="72" />
@@ -305,9 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/printableparser.js" />
-      <jump line="79" column="4" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/printableparser.js" />
-      <jump line="85" column="4" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/printableparser.js" />
       <jump line="161" column="29" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/receiptparser.js" />
       <jump line="263" column="4" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/receiptparser.js" />
       <jump line="77" column="0" filename="$USER_HOME$/Sites/tehden/tests/js/mocks.js" />
@@ -405,46 +421,49 @@
       <jump line="159" column="10" filename="$USER_HOME$/Tehden/tehdenservice/tehdenservice/tehdenPrinters.py" />
       <jump line="198" column="35" filename="$USER_HOME$/Tehden/tehdenservice/tehdenservice/modules/tehdenPrintModule.py" />
       <jump line="231" column="48" filename="$USER_HOME$/Tehden/tehdenservice/tehdenservice/modules/tehdenPrintModule.py" />
+      <jump line="105" column="54" filename="$USER_HOME$/Tehden/tehdenservice/tehdenservice/tests/test_printer.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/Tehden/tehdenservice/pavement.py" />
+      <jump line="47" column="7" filename="$USER_HOME$/Tehden/tehdenservice/pavement.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXlVcGRhdGVyLUNvcHlVcGxvYWRlci1QbHVnaW49PTAuMC4wCg==</text>
+        <text encoding="base64">ICAtIG1ha2UgaW5zdGFsbC1lbnYKICAtIG1ha2UgYnVpbGQK</text>
       </register>
       <register name="-" type="4">
-        <text>'Running in PyInstaller bundle.')</text>
+        <text>rb', encoding='utf-8</text>
       </register>
       <register name="/" type="4">
         <text>width</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNoYXJlZC5sb2dnZXIuZGVidWcoJ1J1bm5pbmcgaW4gUHlJbnN0YWxsZXIgYnVuZGxlLicpCg==</text>
+        <text encoding="base64">ICAgIHNoKCdwaXAgaW5zdGFsbCAtVSBwaXAnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaXlVcGRhdGVyLUNvcHlVcGxvYWRlci1QbHVnaW49PTAuMC4wCg==</text>
+        <text encoding="base64">ICAtIG1ha2UgaW5zdGFsbC1lbnYKICAtIG1ha2UgYnVpbGQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UHlVcGRhdGVyLUNvcHlVcGxvYWRlci1QbHVnaW49PTAuMC4wCg==</text>
+        <text encoding="base64">ICAtIG1ha2UgaW5zdGFsbC1lbnYKICAtIG1ha2UgYnVpbGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBhcnRpZmFjdHM6CiAgICBuYW1lOiAnYnVpbGQnCiAgICB3aGVuOiBvbl9zdWNjZXNzCiAgICBleHBpcmVfaW46IDQgZGF5cwogICAgcGF0aHM6CiAgICAgIC0gZGlzdC90ZWhkZW5TdGFydAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAtIG1ha2UgY2xlYW4KICAtIG1ha2UgaW5zdGFsbC1lbnYKICAtIG1ha2UgdGVzdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IiIiCk9uZSBmdW5jdGlvbiB0byBzdGFydCBpdCBhbGwuCiIiIgo=</text>
+        <text encoding="base64">QG5lZWRzKCdpbnN0YWxsX2VudicpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIHRlaGRlbl9zdGFydCgpOgo=</text>
+        <text encoding="base64">QG5lZWRzKCdpbnN0YWxsX2VudicpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiMgaGVyZSB3ZSBnbwp0ZWhkZW5fc3RhcnQoKQo=</text>
+        <text encoding="base64">UlVOIHBhdmVyIC0tdmVyc2lvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyEgL3Vzci9lbnYvcHl0aG9uCg==</text>
+        <text encoding="base64">ICAgIHB5dGhvbi1waXAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
+        <text encoding="base64">UlVOIHBpcCBpbnN0YWxsIC0tdXBncmFkZSBwaXAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

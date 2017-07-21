@@ -55,7 +55,6 @@
         <mark key="." line="3" column="23" />
         <mark key="^" line="3" column="59" />
       </file>
-      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/tests/res/test_receipt.tmp" timestamp="1500539224226" />
       <file name="$USER_HOME$/Sites/tehden/application/modules/cashier/models/cashier_model.php" timestamp="1497011764654">
         <mark key="[" line="3036" column="0" />
         <mark key="]" line="3036" column="0" />
@@ -284,11 +283,12 @@
         <mark key="^" line="22" column="21" />
         <mark key="." line="22" column="21" />
       </file>
-      <file name="$USER_HOME$/Tehden/tehdenservice/pavement.py" timestamp="1500562481003">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="49" column="0" />
+      <file name="$USER_HOME$/Tehden/tehdenservice/pavement.py" timestamp="1500622144602">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="155" column="26" />
+        <mark key="]" line="155" column="26" />
+        <mark key="." line="155" column="26" />
+        <mark key="^" line="155" column="26" />
       </file>
       <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/tehdenServerProtocol.py" timestamp="1500447291452">
         <mark key="[" line="69" column="72" />
@@ -323,8 +323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="290" column="0" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/receiptparser.js" />
-      <jump line="8" column="2" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/receiptparser.js" />
       <jump line="404" column="14" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/printableparser.js" />
       <jump line="219" column="37" filename="$USER_HOME$/Sites/tehden/tests/js/testCustomerDisplay.js" />
       <jump line="113" column="16" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/tehdenservice.js" />
@@ -423,10 +421,12 @@
       <jump line="86" column="0" filename="$USER_HOME$/Tehden/tehdenservice/pavement.py" />
       <jump line="89" column="3" filename="$USER_HOME$/Tehden/tehdenservice/pavement.py" />
       <jump line="92" column="7" filename="$USER_HOME$/Tehden/tehdenservice/pavement.py" />
+      <jump line="110" column="0" filename="$USER_HOME$/Tehden/tehdenservice/pavement.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/Tehden/tehdenservice/pavement.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QHZpcnR1YWxlbnYoZGlyPSd3c3Rlc3QnKQo=</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name="-" type="4">
         <text>_autobahn_dependencie</text>
@@ -438,28 +438,28 @@
         <text encoding="base64">ICAgIGlmIHN5cy5wbGF0Zm9ybS5zdGFydHN3aXRoKCdsaW51eCcpOgogICAgICAgIHNoKCdweWluc3RhbGxlciAteSBuaXg2NC5zcGVjJykKICAgICAgICBzaCgnY2QgZGlzdCAmJiAuL25peDY0JykKICAgIGVsaWYgc3lzLnBsYXRmb3JtLnN0YXJ0c3dpdGgoJ3dpbicpOgogICAgICAgIHNoKCdweWluc3RhbGxlciAteSB3aW4uc3BlYycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QHZpcnR1YWxlbnYoZGlyPSd3c3Rlc3QnKQo=</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QHZpcnR1YWxlbnYoZGlyPSdlbnYnKQo=</text>
+        <text encoding="base64">QHZpcnR1YWxlbnYoZGlyPSd3c3Rlc3QnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QG5lZWRzKCdfc2V0dXBfd3N0ZXN0JykK</text>
+        <text encoding="base64">QHZpcnR1YWxlbnYoZGlyPSdlbnYnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QG5lZWRzKCdfc2V0dXBfd3N0ZXN0JykK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNoKCdwaXAgaW5zdGFsbCAtVSBwaXAnKQogICAgc2goJ3BpcCBpbnN0YWxsIGF1dG9iYWhudGVzdHN1aXRlJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QG5lZWRzKCdfc2V0dXBfZW52JykK</text>
+        <text encoding="base64">ICAgIHNoKCdwaXAgaW5zdGFsbCAtVSBwaXAnKQogICAgc2goJ3BpcCBpbnN0YWxsIGF1dG9iYWhudGVzdHN1aXRlJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QG5lZWRzKCdfc2V0dXBfZW52JykK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

@@ -376,12 +376,9 @@
         <mark key="." line="426" column="29" />
         <mark key="^" line="426" column="29" />
       </file>
-      <file name="$USER_HOME$/Sites/tehden/js/app/cashier/cashier.js" timestamp="1500629776097">
+      <file name="$USER_HOME$/Sites/tehden/js/app/cashier/cashier.js" timestamp="1500637490863">
         <mark key="a" line="9654" column="4" />
-        <mark key="'" line="3609" column="0" />
-        <mark key="[" line="5404" column="0" />
-        <mark key="]" line="5404" column="0" />
-        <mark key="." line="5404" column="0" />
+        <mark key="'" line="11746" column="4" />
         <mark key="^" line="9654" column="4" />
       </file>
       <file name="$USER_HOME$/Sites/tehden/application/modules/company/views/company_sequences_add.php" timestamp="1497855971762">
@@ -455,7 +452,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/tehden/tests/js/testReceiptParser.js" />
       <jump line="0" column="1" filename="$USER_HOME$/Sites/tehden/tests/js/receipt_printable.js" />
       <jump line="135" column="53" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/printableparser.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Sites/tehden/js/app/tehdenservice/printableparser.js" />
@@ -555,6 +551,7 @@
       <jump line="3609" column="0" filename="$USER_HOME$/Sites/tehden/js/app/cashier/cashier.js" />
       <jump line="13" column="0" filename="$USER_HOME$/Tehden/tehdenservice/tehdenservice/tehdenStart.py" />
       <jump line="8" column="14" filename="$USER_HOME$/Tehden/tehdenservice/tehdenservice/tehdenUpdater.py" />
+      <jump line="11746" column="4" filename="$USER_HOME$/Sites/tehden/js/app/cashier/cashier.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

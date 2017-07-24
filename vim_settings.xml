@@ -482,7 +482,7 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnQgCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3ZhbC92YWx1ZS9n</text>
+        <text>vsp</text>
       </register>
     </registers>
     <search>
@@ -518,8 +518,6 @@
         <entry>val</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3Byb2R1Y3RQcmludGFibGUvcHJpbnRhYmxlL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL29mZmVycy90b3RhbC9n</entry>
         <entry encoding="base64">JzwsJz5zL3RvdGFsL3ZhdHMvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3ZhdHMvY2FyZC9n</entry>
         <entry encoding="base64">JzwsJz5zL2xldC9jb25zdC9n</entry>
@@ -538,6 +536,8 @@
         <entry>w</entry>
         <entry>buffer</entry>
         <entry encoding="base64">JzwsJz5zL3ZhbC92YWx1ZS9n</entry>
+        <entry encoding="base64">c2Ig</entry>
+        <entry>vsp</entry>
       </history-cmd>
       <history-expr />
       <history-input />

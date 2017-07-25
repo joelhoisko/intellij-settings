@@ -78,12 +78,12 @@
         <mark key="^" line="4" column="32" />
         <mark key="." line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/Sites/tehden/application/modules/cashier/controllers/ajaxcashier.php" timestamp="1500897189308">
+      <file name="$USER_HOME$/Sites/tehden/application/modules/cashier/controllers/ajaxcashier.php" timestamp="1500968303316">
         <mark key="'" line="6981" column="0" />
-        <mark key="[" line="7146" column="0" />
-        <mark key="]" line="7146" column="0" />
-        <mark key="^" line="7140" column="63" />
-        <mark key="." line="7146" column="0" />
+        <mark key="[" line="7144" column="80" />
+        <mark key="]" line="7145" column="14" />
+        <mark key="^" line="7145" column="14" />
+        <mark key="." line="7145" column="14" />
       </file>
       <file name="$USER_HOME$/Sites/tehden/js/Formatter.js" timestamp="1498644118141">
         <mark key="'" line="1" column="0" />

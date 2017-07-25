@@ -183,11 +183,11 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/tehdenUpdater.py" timestamp="1500965881906">
-        <mark key="[" line="16" column="47" />
-        <mark key="]" line="17" column="34" />
-        <mark key="^" line="17" column="34" />
-        <mark key="." line="17" column="34" />
+      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/tehdenUpdater.py" timestamp="1500968831416">
+        <mark key="[" line="29" column="69" />
+        <mark key="]" line="30" column="54" />
+        <mark key="." line="30" column="54" />
+        <mark key="^" line="30" column="54" />
       </file>
       <file name="$USER_HOME$/Tehden/tehdenservice/Dockerfile" timestamp="1500554476111">
         <mark key="[" line="5" column="25" />
@@ -449,7 +449,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNldF9oaWRkZW4oJ3ZlcnNpb24nLCAnMS4wLjAnKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">dGhpZ25zIA==</text>
@@ -461,10 +461,10 @@
         <text encoding="base64">ICAgICAgICBzZWxmLnNldF9oaWRkZW4oJ3ZlcnNpb24nLCAnMS4wLjAnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJldGEK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJldGEK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -473,19 +473,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWcudW5zZXRfaGlkZGVuKCdUZXN0JywgJ3Rlc3Rfb3B0aW9uJykKICAgICAgICBlbXB0eV92YWx1ZSA9IGNvbmZpZy5nZXRfaGlkZGVuKCdUZXN0JywgJ3Rlc3Rfb3B0aW9uJykK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb25maWcudW5zZXRfaGlkZGVuKCdUZXN0JywgJ3Rlc3Rfb3B0aW9uJykKICAgICAgICBlbXB0eV92YWx1ZSA9IGNvbmZpZy5nZXRfaGlkZGVuKCdUZXN0JywgJ3Rlc3Rfb3B0aW9uJykK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjb252ZXJ0IHRoZW0gdG8gc3RyaW5ncy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBpZiB2YWwgaXMgYSBib29sZWFuLCB2YWwudXBwZXIoKSBicmVha3MgdGhlIHRoaW5nCiAgICAgICAgICAgICMgc28gbGV0cyB0ZXN0IGZvciBpdCBmaXJzdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBjb252ZXJ0IHRoZW0gdG8gc3RyaW5ncy4K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLydUZXN0JywvL2c=</text>

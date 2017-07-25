@@ -36,19 +36,19 @@
         <mark key="^" line="32" column="21" />
         <mark key="." line="32" column="21" />
       </file>
-      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/tehdenPrinters.py" timestamp="1500898639998">
-        <mark key="'" line="366" column="12" />
-        <mark key="[" line="300" column="30" />
-        <mark key="]" line="300" column="67" />
-        <mark key="." line="300" column="67" />
-        <mark key="^" line="300" column="67" />
+      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/tehdenPrinters.py" timestamp="1500974837053">
+        <mark key="'" line="367" column="12" />
+        <mark key="[" line="306" column="35" />
+        <mark key="]" line="307" column="33" />
+        <mark key="." line="307" column="33" />
+        <mark key="^" line="307" column="33" />
       </file>
-      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/TehdenServiceConfig.py" timestamp="1500966651467">
+      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/TehdenServiceConfig.py" timestamp="1500974322661">
         <mark key="'" line="268" column="5" />
-        <mark key="[" line="83" column="43" />
-        <mark key="]" line="84" column="43" />
-        <mark key="^" line="84" column="43" />
-        <mark key="." line="84" column="43" />
+        <mark key="[" line="83" column="41" />
+        <mark key="]" line="83" column="40" />
+        <mark key="^" line="83" column="40" />
+        <mark key="." line="83" column="40" />
       </file>
       <file name="$USER_HOME$/Tehden/TD-4721-receipt-printing/tehdenService/DOCUMENTATION.md" timestamp="1495009025695">
         <mark key="[" line="11" column="64" />
@@ -201,12 +201,12 @@
         <mark key="." line="2" column="85" />
         <mark key="^" line="2" column="85" />
       </file>
-      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/modules/tehdenCustomerDisplayModule.py" timestamp="1500627156638">
+      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/modules/tehdenCustomerDisplayModule.py" timestamp="1500974301306">
         <mark key="'" line="94" column="26" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="73" column="18" />
-        <mark key="." line="3" column="0" />
+        <mark key="[" line="54" column="59" />
+        <mark key="]" line="54" column="65" />
+        <mark key="^" line="54" column="65" />
+        <mark key="." line="54" column="65" />
       </file>
       <file name="$USER_HOME$/Sites/tehden/application/modules/company/views/tehdenservice_save.php" timestamp="1497944523322">
         <mark key="[" line="0" column="24" />
@@ -214,10 +214,10 @@
         <mark key="." line="0" column="27" />
         <mark key="^" line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/Tehden/tehdenservice/.pyupdater/config.pyu" timestamp="1500972156725">
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
+      <file name="$USER_HOME$/Tehden/tehdenservice/.pyupdater/config.pyu" timestamp="1500974457344">
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1500015744465">
         <mark key="[" line="0" column="0" />
@@ -233,6 +233,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1500974805240">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/tests/test_printer.py" timestamp="1500549538275">
         <mark key="'" line="105" column="54" />
@@ -455,7 +458,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgImh0dHBzOi8vczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb20vdGVoZGVuc2VydmljZS8iCg==</text>
       </register>
       <register name="-" type="4">
         <text>LOL</text>
@@ -467,35 +470,35 @@
         <text encoding="base64">ICAgIG9zLmVudmlyb25bJ1BZVV9BV1NfSUQnXSA9ICdBS0lBSUNNWTVDN0U3WFZKSTM1QScKICAgIG9zLmVudmlyb25bJ1BZVV9BV1NfU0VDUkVUJ10gPSAnK01ZaFQ4aXpnNmR2Sk11TzluUWJZRFd6T3JJK05FcldBaXBnb3JjLycKICAgIG9zLmVudmlyb25bJ1BZVV9BV1NfQlVDS0VUJ10gPSAndGVoZGVuc2VydmljZScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgImh0dHBzOi8vczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb20vdGVoZGVuc2VydmljZS8iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgInMzLURpZ2l0YWwgU2FwcGhpcmUiOiB7CiAgICAgICAgImJ1Y2tldF9uYW1lIjogInRlaGRlbnNlcnZpY2UiLAogICAgICAgICJQWVVfQVdTX0lEIjogIkFLSUFJQ01ZNUM3RTdYVkpJMzVBIiwKICAgICAgICAiUFlVX0FXU19CVUNLRVQiOiAidGVoZGVuc2VydmljZSIsCiAgICAgICAgIlBZVV9BV1NfU0VDUkVUIjogIitNWWhUOGl6ZzZkdkpNdU85blFiWURXek9ySStORXJXQWlwZ29yYy8iCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgInMzLURpZ2l0YWwgU2FwcGhpcmUiOiB7CiAgICAgICAgImJ1Y2tldF9uYW1lIjogInRlaGRlbnNlcnZpY2UiLAogICAgICAgICJQWVVfQVdTX0lEIjogIkFLSUFJQ01ZNUM3RTdYVkpJMzVBIiwKICAgICAgICAiUFlVX0FXU19CVUNLRVQiOiAidGVoZGVuc2VydmljZSIsCiAgICAgICAgIlBZVV9BV1NfU0VDUkVUIjogIitNWWhUOGl6ZzZkdkpNdU85blFiWURXek9ySStORXJXQWlwZ29yYy8iCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="8">
         <text>I
 I</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgInMzIjogewogICAgICB9LCAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAiUFlJVV9BV1NfSUQiOiAiQUtJQUlDTVk1QzdFN1hWSkkzNUEiLCAKICAgICAgICAiUFlJVV9BV1NfQlVDS0VUIjogInRlaGRlbnNlcnZpY2UiLCAKICAgICAgICAiUFlJVV9BV1NfU0VDUkVUIjogIitNWWhUOGl6ZzZkdkpNdU85blFiWURXek9ySStORXJXQWlwZ29yYy8iCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIDpyZXR1cm46IAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLydUZXN0JywvL2c=</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -541,7 +544,6 @@ I</text>
         <entry encoding="base64">JzwsJz5zL3RoL2h0L2c=</entry>
         <entry encoding="base64">JzwsJz5zL3dpZHRoL2NvZGVwYWdlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3dpZHRoL2JhdWRyYXRlL2c=</entry>
-        <entry>w</entry>
         <entry>buffer</entry>
         <entry encoding="base64">JzwsJz5zL3ZhbC92YWx1ZS9n</entry>
         <entry encoding="base64">c2Ig</entry>
@@ -551,6 +553,7 @@ I</text>
         <entry encoding="base64">JzwsJz5zL3NldC9zZXRfaGlkZGVuL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2dldC9nZXRfaGlkZGVuL2c=</entry>
         <entry encoding="base64">JzwsJz5zLydUZXN0JywvL2c=</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />

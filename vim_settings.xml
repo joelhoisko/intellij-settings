@@ -43,7 +43,7 @@
         <mark key="." line="307" column="33" />
         <mark key="^" line="307" column="33" />
       </file>
-      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/TehdenServiceConfig.py" timestamp="1500980162340">
+      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/TehdenServiceConfig.py" timestamp="1500981948067">
         <mark key="'" line="268" column="5" />
         <mark key="[" line="83" column="41" />
         <mark key="]" line="83" column="40" />
@@ -201,12 +201,12 @@
         <mark key="." line="2" column="85" />
         <mark key="^" line="2" column="85" />
       </file>
-      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/modules/tehdenCustomerDisplayModule.py" timestamp="1500974301306">
+      <file name="$USER_HOME$/Tehden/tehdenservice/tehdenservice/modules/tehdenCustomerDisplayModule.py" timestamp="1500981913753">
         <mark key="'" line="94" column="26" />
-        <mark key="[" line="54" column="59" />
-        <mark key="]" line="54" column="65" />
-        <mark key="^" line="54" column="65" />
-        <mark key="." line="54" column="65" />
+        <mark key="[" line="54" column="66" />
+        <mark key="]" line="54" column="62" />
+        <mark key="^" line="54" column="62" />
+        <mark key="." line="54" column="62" />
       </file>
       <file name="$USER_HOME$/Sites/tehden/application/modules/company/views/tehdenservice_save.php" timestamp="1497944523322">
         <mark key="[" line="0" column="24" />
@@ -215,7 +215,7 @@
         <mark key="^" line="0" column="27" />
       </file>
       <file name="$USER_HOME$/Tehden/tehdenservice/.pyupdater/config.pyu" timestamp="1500980751305">
-        <mark key="'" line="202" column="0" />
+        <mark key="'" line="209" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1500015744465">
         <mark key="[" line="0" column="0" />
